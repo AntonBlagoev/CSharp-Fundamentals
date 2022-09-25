@@ -92,13 +92,13 @@ End Date: 07.08.2022
 
 [SoftUni course page](https://softuni.bg/trainings/3729/programming-fundamentals-with-csharp-may-2022#lesson-40321)
 
-[SoftUni Judge system](https://judge.softuni.org/Contests#!/List/ByCategory/149/CSharp-Fundamentals)
+[SoftUni Judge System](https://judge.softuni.org/Contests#!/List/ByCategory/149/CSharp-Fundamentals)
 
-[Facebook group of course](https://www.facebook.com/groups/ProgrammingFundamentalswithCsharpMay2022)
+[Facebook group](https://www.facebook.com/groups/ProgrammingFundamentalswithCsharpMay2022)
 
-[Discord group of course](https://discord.gg/9Grr4SDzsX)
+[Discord group](https://discord.gg/9Grr4SDzsX)
 
-[Paste Bin](https://pastebin.com/)
+[PasteBin](https://pastebin.com/)
 
 [regex101.com](https://regex101.com/)
 
