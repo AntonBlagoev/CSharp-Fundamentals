@@ -1,0 +1,16 @@
+D:\SU\#fund-csharp_05.2022\Final-Exam\03. Heroes of Code and Logic VII\bin\Debug\net5.0\03. Heroes of Code and Logic VII.exe
+D:\SU\#fund-csharp_05.2022\Final-Exam\03. Heroes of Code and Logic VII\bin\Debug\net5.0\03. Heroes of Code and Logic VII.deps.json
+D:\SU\#fund-csharp_05.2022\Final-Exam\03. Heroes of Code and Logic VII\bin\Debug\net5.0\03. Heroes of Code and Logic VII.runtimeconfig.json
+D:\SU\#fund-csharp_05.2022\Final-Exam\03. Heroes of Code and Logic VII\bin\Debug\net5.0\03. Heroes of Code and Logic VII.runtimeconfig.dev.json
+D:\SU\#fund-csharp_05.2022\Final-Exam\03. Heroes of Code and Logic VII\bin\Debug\net5.0\03. Heroes of Code and Logic VII.dll
+D:\SU\#fund-csharp_05.2022\Final-Exam\03. Heroes of Code and Logic VII\bin\Debug\net5.0\ref\03. Heroes of Code and Logic VII.dll
+D:\SU\#fund-csharp_05.2022\Final-Exam\03. Heroes of Code and Logic VII\bin\Debug\net5.0\03. Heroes of Code and Logic VII.pdb
+D:\SU\#fund-csharp_05.2022\Final-Exam\03. Heroes of Code and Logic VII\obj\Debug\net5.0\03. Heroes of Code and Logic VII.csproj.AssemblyReference.cache
+D:\SU\#fund-csharp_05.2022\Final-Exam\03. Heroes of Code and Logic VII\obj\Debug\net5.0\03. Heroes of Code and Logic VII.GeneratedMSBuildEditorConfig.editorconfig
+D:\SU\#fund-csharp_05.2022\Final-Exam\03. Heroes of Code and Logic VII\obj\Debug\net5.0\03. Heroes of Code and Logic VII.AssemblyInfoInputs.cache
+D:\SU\#fund-csharp_05.2022\Final-Exam\03. Heroes of Code and Logic VII\obj\Debug\net5.0\03. Heroes of Code and Logic VII.AssemblyInfo.cs
+D:\SU\#fund-csharp_05.2022\Final-Exam\03. Heroes of Code and Logic VII\obj\Debug\net5.0\03. Heroes of Code and Logic VII.csproj.CoreCompileInputs.cache
+D:\SU\#fund-csharp_05.2022\Final-Exam\03. Heroes of Code and Logic VII\obj\Debug\net5.0\03. Heroes of Code and Logic VII.dll
+D:\SU\#fund-csharp_05.2022\Final-Exam\03. Heroes of Code and Logic VII\obj\Debug\net5.0\ref\03. Heroes of Code and Logic VII.dll
+D:\SU\#fund-csharp_05.2022\Final-Exam\03. Heroes of Code and Logic VII\obj\Debug\net5.0\03. Heroes of Code and Logic VII.pdb
+D:\SU\#fund-csharp_05.2022\Final-Exam\03. Heroes of Code and Logic VII\obj\Debug\net5.0\03. Heroes of Code and Logic VII.genruntimeconfig.cache

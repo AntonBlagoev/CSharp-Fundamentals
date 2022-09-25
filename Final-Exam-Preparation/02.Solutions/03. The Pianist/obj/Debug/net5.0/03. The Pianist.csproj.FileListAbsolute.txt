@@ -1,0 +1,16 @@
+D:\SU\#fund-csharp_05.2022\Final-Exam_Solutions-II\Final-Exam_Solutions-II\03. The Pianist\bin\Debug\net5.0\03. The Pianist.exe
+D:\SU\#fund-csharp_05.2022\Final-Exam_Solutions-II\Final-Exam_Solutions-II\03. The Pianist\bin\Debug\net5.0\03. The Pianist.deps.json
+D:\SU\#fund-csharp_05.2022\Final-Exam_Solutions-II\Final-Exam_Solutions-II\03. The Pianist\bin\Debug\net5.0\03. The Pianist.runtimeconfig.json
+D:\SU\#fund-csharp_05.2022\Final-Exam_Solutions-II\Final-Exam_Solutions-II\03. The Pianist\bin\Debug\net5.0\03. The Pianist.runtimeconfig.dev.json
+D:\SU\#fund-csharp_05.2022\Final-Exam_Solutions-II\Final-Exam_Solutions-II\03. The Pianist\bin\Debug\net5.0\03. The Pianist.dll
+D:\SU\#fund-csharp_05.2022\Final-Exam_Solutions-II\Final-Exam_Solutions-II\03. The Pianist\bin\Debug\net5.0\ref\03. The Pianist.dll
+D:\SU\#fund-csharp_05.2022\Final-Exam_Solutions-II\Final-Exam_Solutions-II\03. The Pianist\bin\Debug\net5.0\03. The Pianist.pdb
+D:\SU\#fund-csharp_05.2022\Final-Exam_Solutions-II\Final-Exam_Solutions-II\03. The Pianist\obj\Debug\net5.0\03. The Pianist.csproj.AssemblyReference.cache
+D:\SU\#fund-csharp_05.2022\Final-Exam_Solutions-II\Final-Exam_Solutions-II\03. The Pianist\obj\Debug\net5.0\03. The Pianist.GeneratedMSBuildEditorConfig.editorconfig
+D:\SU\#fund-csharp_05.2022\Final-Exam_Solutions-II\Final-Exam_Solutions-II\03. The Pianist\obj\Debug\net5.0\03. The Pianist.AssemblyInfoInputs.cache
+D:\SU\#fund-csharp_05.2022\Final-Exam_Solutions-II\Final-Exam_Solutions-II\03. The Pianist\obj\Debug\net5.0\03. The Pianist.AssemblyInfo.cs
+D:\SU\#fund-csharp_05.2022\Final-Exam_Solutions-II\Final-Exam_Solutions-II\03. The Pianist\obj\Debug\net5.0\03. The Pianist.csproj.CoreCompileInputs.cache
+D:\SU\#fund-csharp_05.2022\Final-Exam_Solutions-II\Final-Exam_Solutions-II\03. The Pianist\obj\Debug\net5.0\03. The Pianist.dll
+D:\SU\#fund-csharp_05.2022\Final-Exam_Solutions-II\Final-Exam_Solutions-II\03. The Pianist\obj\Debug\net5.0\ref\03. The Pianist.dll
+D:\SU\#fund-csharp_05.2022\Final-Exam_Solutions-II\Final-Exam_Solutions-II\03. The Pianist\obj\Debug\net5.0\03. The Pianist.pdb
+D:\SU\#fund-csharp_05.2022\Final-Exam_Solutions-II\Final-Exam_Solutions-II\03. The Pianist\obj\Debug\net5.0\03. The Pianist.genruntimeconfig.cache

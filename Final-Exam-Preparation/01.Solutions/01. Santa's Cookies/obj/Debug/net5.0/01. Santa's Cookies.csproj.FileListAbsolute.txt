@@ -1,0 +1,16 @@
+D:\SU\#fund-csharp_05.2022\Final-Exam\01. Santa's Cookies\bin\Debug\net5.0\01. Santa's Cookies.exe
+D:\SU\#fund-csharp_05.2022\Final-Exam\01. Santa's Cookies\bin\Debug\net5.0\01. Santa's Cookies.deps.json
+D:\SU\#fund-csharp_05.2022\Final-Exam\01. Santa's Cookies\bin\Debug\net5.0\01. Santa's Cookies.runtimeconfig.json
+D:\SU\#fund-csharp_05.2022\Final-Exam\01. Santa's Cookies\bin\Debug\net5.0\01. Santa's Cookies.runtimeconfig.dev.json
+D:\SU\#fund-csharp_05.2022\Final-Exam\01. Santa's Cookies\bin\Debug\net5.0\01. Santa's Cookies.dll
+D:\SU\#fund-csharp_05.2022\Final-Exam\01. Santa's Cookies\bin\Debug\net5.0\ref\01. Santa's Cookies.dll
+D:\SU\#fund-csharp_05.2022\Final-Exam\01. Santa's Cookies\bin\Debug\net5.0\01. Santa's Cookies.pdb
+D:\SU\#fund-csharp_05.2022\Final-Exam\01. Santa's Cookies\obj\Debug\net5.0\01. Santa's Cookies.csproj.AssemblyReference.cache
+D:\SU\#fund-csharp_05.2022\Final-Exam\01. Santa's Cookies\obj\Debug\net5.0\01. Santa's Cookies.GeneratedMSBuildEditorConfig.editorconfig
+D:\SU\#fund-csharp_05.2022\Final-Exam\01. Santa's Cookies\obj\Debug\net5.0\01. Santa's Cookies.AssemblyInfoInputs.cache
+D:\SU\#fund-csharp_05.2022\Final-Exam\01. Santa's Cookies\obj\Debug\net5.0\01. Santa's Cookies.AssemblyInfo.cs
+D:\SU\#fund-csharp_05.2022\Final-Exam\01. Santa's Cookies\obj\Debug\net5.0\01. Santa's Cookies.csproj.CoreCompileInputs.cache
+D:\SU\#fund-csharp_05.2022\Final-Exam\01. Santa's Cookies\obj\Debug\net5.0\01. Santa's Cookies.dll
+D:\SU\#fund-csharp_05.2022\Final-Exam\01. Santa's Cookies\obj\Debug\net5.0\ref\01. Santa's Cookies.dll
+D:\SU\#fund-csharp_05.2022\Final-Exam\01. Santa's Cookies\obj\Debug\net5.0\01. Santa's Cookies.pdb
+D:\SU\#fund-csharp_05.2022\Final-Exam\01. Santa's Cookies\obj\Debug\net5.0\01. Santa's Cookies.genruntimeconfig.cache

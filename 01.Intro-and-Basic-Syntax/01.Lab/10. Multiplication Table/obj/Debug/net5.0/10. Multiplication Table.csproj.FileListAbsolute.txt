@@ -1,0 +1,15 @@
+D:\SU\#fund-csharp_05.2022\01\01. Basic Syntax, Conditional Statements and Loops\10. Multiplication Table\bin\Debug\net5.0\10. Multiplication Table.exe
+D:\SU\#fund-csharp_05.2022\01\01. Basic Syntax, Conditional Statements and Loops\10. Multiplication Table\bin\Debug\net5.0\10. Multiplication Table.deps.json
+D:\SU\#fund-csharp_05.2022\01\01. Basic Syntax, Conditional Statements and Loops\10. Multiplication Table\bin\Debug\net5.0\10. Multiplication Table.runtimeconfig.json
+D:\SU\#fund-csharp_05.2022\01\01. Basic Syntax, Conditional Statements and Loops\10. Multiplication Table\bin\Debug\net5.0\10. Multiplication Table.runtimeconfig.dev.json
+D:\SU\#fund-csharp_05.2022\01\01. Basic Syntax, Conditional Statements and Loops\10. Multiplication Table\bin\Debug\net5.0\10. Multiplication Table.dll
+D:\SU\#fund-csharp_05.2022\01\01. Basic Syntax, Conditional Statements and Loops\10. Multiplication Table\bin\Debug\net5.0\ref\10. Multiplication Table.dll
+D:\SU\#fund-csharp_05.2022\01\01. Basic Syntax, Conditional Statements and Loops\10. Multiplication Table\bin\Debug\net5.0\10. Multiplication Table.pdb
+D:\SU\#fund-csharp_05.2022\01\01. Basic Syntax, Conditional Statements and Loops\10. Multiplication Table\obj\Debug\net5.0\10. Multiplication Table.GeneratedMSBuildEditorConfig.editorconfig
+D:\SU\#fund-csharp_05.2022\01\01. Basic Syntax, Conditional Statements and Loops\10. Multiplication Table\obj\Debug\net5.0\10. Multiplication Table.AssemblyInfoInputs.cache
+D:\SU\#fund-csharp_05.2022\01\01. Basic Syntax, Conditional Statements and Loops\10. Multiplication Table\obj\Debug\net5.0\10. Multiplication Table.AssemblyInfo.cs
+D:\SU\#fund-csharp_05.2022\01\01. Basic Syntax, Conditional Statements and Loops\10. Multiplication Table\obj\Debug\net5.0\10. Multiplication Table.csproj.CoreCompileInputs.cache
+D:\SU\#fund-csharp_05.2022\01\01. Basic Syntax, Conditional Statements and Loops\10. Multiplication Table\obj\Debug\net5.0\10. Multiplication Table.dll
+D:\SU\#fund-csharp_05.2022\01\01. Basic Syntax, Conditional Statements and Loops\10. Multiplication Table\obj\Debug\net5.0\ref\10. Multiplication Table.dll
+D:\SU\#fund-csharp_05.2022\01\01. Basic Syntax, Conditional Statements and Loops\10. Multiplication Table\obj\Debug\net5.0\10. Multiplication Table.pdb
+D:\SU\#fund-csharp_05.2022\01\01. Basic Syntax, Conditional Statements and Loops\10. Multiplication Table\obj\Debug\net5.0\10. Multiplication Table.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\SU\#fund-csharp_05.2022\09\09. Exercies\06. Extract Emails\bin\Debug\net5.0\06. Extract Emails.exe
+D:\SU\#fund-csharp_05.2022\09\09. Exercies\06. Extract Emails\bin\Debug\net5.0\06. Extract Emails.deps.json
+D:\SU\#fund-csharp_05.2022\09\09. Exercies\06. Extract Emails\bin\Debug\net5.0\06. Extract Emails.runtimeconfig.json
+D:\SU\#fund-csharp_05.2022\09\09. Exercies\06. Extract Emails\bin\Debug\net5.0\06. Extract Emails.runtimeconfig.dev.json
+D:\SU\#fund-csharp_05.2022\09\09. Exercies\06. Extract Emails\bin\Debug\net5.0\06. Extract Emails.dll
+D:\SU\#fund-csharp_05.2022\09\09. Exercies\06. Extract Emails\bin\Debug\net5.0\ref\06. Extract Emails.dll
+D:\SU\#fund-csharp_05.2022\09\09. Exercies\06. Extract Emails\bin\Debug\net5.0\06. Extract Emails.pdb
+D:\SU\#fund-csharp_05.2022\09\09. Exercies\06. Extract Emails\obj\Debug\net5.0\06. Extract Emails.GeneratedMSBuildEditorConfig.editorconfig
+D:\SU\#fund-csharp_05.2022\09\09. Exercies\06. Extract Emails\obj\Debug\net5.0\06. Extract Emails.AssemblyInfoInputs.cache
+D:\SU\#fund-csharp_05.2022\09\09. Exercies\06. Extract Emails\obj\Debug\net5.0\06. Extract Emails.AssemblyInfo.cs
+D:\SU\#fund-csharp_05.2022\09\09. Exercies\06. Extract Emails\obj\Debug\net5.0\06. Extract Emails.csproj.CoreCompileInputs.cache
+D:\SU\#fund-csharp_05.2022\09\09. Exercies\06. Extract Emails\obj\Debug\net5.0\06. Extract Emails.dll
+D:\SU\#fund-csharp_05.2022\09\09. Exercies\06. Extract Emails\obj\Debug\net5.0\ref\06. Extract Emails.dll
+D:\SU\#fund-csharp_05.2022\09\09. Exercies\06. Extract Emails\obj\Debug\net5.0\06. Extract Emails.pdb
+D:\SU\#fund-csharp_05.2022\09\09. Exercies\06. Extract Emails\obj\Debug\net5.0\06. Extract Emails.genruntimeconfig.cache
+D:\SU\#fund-csharp_05.2022\09\09. Exercies\06. Extract Emails\obj\Debug\net5.0\06. Extract Emails.csproj.AssemblyReference.cache

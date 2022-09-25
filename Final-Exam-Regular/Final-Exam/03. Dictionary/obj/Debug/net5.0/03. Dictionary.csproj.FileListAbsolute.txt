@@ -1,0 +1,16 @@
+D:\SU\#fund-csharp_05.2022\Final-Exam-20220807\Final-Exam\03. Dictionary\bin\Debug\net5.0\03. Dictionary.exe
+D:\SU\#fund-csharp_05.2022\Final-Exam-20220807\Final-Exam\03. Dictionary\bin\Debug\net5.0\03. Dictionary.deps.json
+D:\SU\#fund-csharp_05.2022\Final-Exam-20220807\Final-Exam\03. Dictionary\bin\Debug\net5.0\03. Dictionary.runtimeconfig.json
+D:\SU\#fund-csharp_05.2022\Final-Exam-20220807\Final-Exam\03. Dictionary\bin\Debug\net5.0\03. Dictionary.runtimeconfig.dev.json
+D:\SU\#fund-csharp_05.2022\Final-Exam-20220807\Final-Exam\03. Dictionary\bin\Debug\net5.0\03. Dictionary.dll
+D:\SU\#fund-csharp_05.2022\Final-Exam-20220807\Final-Exam\03. Dictionary\bin\Debug\net5.0\ref\03. Dictionary.dll
+D:\SU\#fund-csharp_05.2022\Final-Exam-20220807\Final-Exam\03. Dictionary\bin\Debug\net5.0\03. Dictionary.pdb
+D:\SU\#fund-csharp_05.2022\Final-Exam-20220807\Final-Exam\03. Dictionary\obj\Debug\net5.0\03. Dictionary.csproj.AssemblyReference.cache
+D:\SU\#fund-csharp_05.2022\Final-Exam-20220807\Final-Exam\03. Dictionary\obj\Debug\net5.0\03. Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+D:\SU\#fund-csharp_05.2022\Final-Exam-20220807\Final-Exam\03. Dictionary\obj\Debug\net5.0\03. Dictionary.AssemblyInfoInputs.cache
+D:\SU\#fund-csharp_05.2022\Final-Exam-20220807\Final-Exam\03. Dictionary\obj\Debug\net5.0\03. Dictionary.AssemblyInfo.cs
+D:\SU\#fund-csharp_05.2022\Final-Exam-20220807\Final-Exam\03. Dictionary\obj\Debug\net5.0\03. Dictionary.csproj.CoreCompileInputs.cache
+D:\SU\#fund-csharp_05.2022\Final-Exam-20220807\Final-Exam\03. Dictionary\obj\Debug\net5.0\03. Dictionary.dll
+D:\SU\#fund-csharp_05.2022\Final-Exam-20220807\Final-Exam\03. Dictionary\obj\Debug\net5.0\ref\03. Dictionary.dll
+D:\SU\#fund-csharp_05.2022\Final-Exam-20220807\Final-Exam\03. Dictionary\obj\Debug\net5.0\03. Dictionary.pdb
+D:\SU\#fund-csharp_05.2022\Final-Exam-20220807\Final-Exam\03. Dictionary\obj\Debug\net5.0\03. Dictionary.genruntimeconfig.cache

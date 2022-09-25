@@ -1,0 +1,16 @@
+C:\Users\anton\source\repos\06. Exercies\01. Advertisement Message\bin\Debug\net5.0\01. Advertisement Message.exe
+C:\Users\anton\source\repos\06. Exercies\01. Advertisement Message\bin\Debug\net5.0\01. Advertisement Message.deps.json
+C:\Users\anton\source\repos\06. Exercies\01. Advertisement Message\bin\Debug\net5.0\01. Advertisement Message.runtimeconfig.json
+C:\Users\anton\source\repos\06. Exercies\01. Advertisement Message\bin\Debug\net5.0\01. Advertisement Message.runtimeconfig.dev.json
+C:\Users\anton\source\repos\06. Exercies\01. Advertisement Message\bin\Debug\net5.0\01. Advertisement Message.dll
+C:\Users\anton\source\repos\06. Exercies\01. Advertisement Message\bin\Debug\net5.0\ref\01. Advertisement Message.dll
+C:\Users\anton\source\repos\06. Exercies\01. Advertisement Message\bin\Debug\net5.0\01. Advertisement Message.pdb
+C:\Users\anton\source\repos\06. Exercies\01. Advertisement Message\obj\Debug\net5.0\01. Advertisement Message.csproj.AssemblyReference.cache
+C:\Users\anton\source\repos\06. Exercies\01. Advertisement Message\obj\Debug\net5.0\01. Advertisement Message.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\source\repos\06. Exercies\01. Advertisement Message\obj\Debug\net5.0\01. Advertisement Message.AssemblyInfoInputs.cache
+C:\Users\anton\source\repos\06. Exercies\01. Advertisement Message\obj\Debug\net5.0\01. Advertisement Message.AssemblyInfo.cs
+C:\Users\anton\source\repos\06. Exercies\01. Advertisement Message\obj\Debug\net5.0\01. Advertisement Message.csproj.CoreCompileInputs.cache
+C:\Users\anton\source\repos\06. Exercies\01. Advertisement Message\obj\Debug\net5.0\01. Advertisement Message.dll
+C:\Users\anton\source\repos\06. Exercies\01. Advertisement Message\obj\Debug\net5.0\ref\01. Advertisement Message.dll
+C:\Users\anton\source\repos\06. Exercies\01. Advertisement Message\obj\Debug\net5.0\01. Advertisement Message.pdb
+C:\Users\anton\source\repos\06. Exercies\01. Advertisement Message\obj\Debug\net5.0\01. Advertisement Message.genruntimeconfig.cache

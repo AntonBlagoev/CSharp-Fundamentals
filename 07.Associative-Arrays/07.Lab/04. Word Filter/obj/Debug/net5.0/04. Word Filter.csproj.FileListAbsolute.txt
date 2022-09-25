@@ -1,0 +1,16 @@
+C:\Users\anton\source\repos\07. Lab\04. Word Filter\bin\Debug\net5.0\04. Word Filter.exe
+C:\Users\anton\source\repos\07. Lab\04. Word Filter\bin\Debug\net5.0\04. Word Filter.deps.json
+C:\Users\anton\source\repos\07. Lab\04. Word Filter\bin\Debug\net5.0\04. Word Filter.runtimeconfig.json
+C:\Users\anton\source\repos\07. Lab\04. Word Filter\bin\Debug\net5.0\04. Word Filter.runtimeconfig.dev.json
+C:\Users\anton\source\repos\07. Lab\04. Word Filter\bin\Debug\net5.0\04. Word Filter.dll
+C:\Users\anton\source\repos\07. Lab\04. Word Filter\bin\Debug\net5.0\ref\04. Word Filter.dll
+C:\Users\anton\source\repos\07. Lab\04. Word Filter\bin\Debug\net5.0\04. Word Filter.pdb
+C:\Users\anton\source\repos\07. Lab\04. Word Filter\obj\Debug\net5.0\04. Word Filter.csproj.AssemblyReference.cache
+C:\Users\anton\source\repos\07. Lab\04. Word Filter\obj\Debug\net5.0\04. Word Filter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\source\repos\07. Lab\04. Word Filter\obj\Debug\net5.0\04. Word Filter.AssemblyInfoInputs.cache
+C:\Users\anton\source\repos\07. Lab\04. Word Filter\obj\Debug\net5.0\04. Word Filter.AssemblyInfo.cs
+C:\Users\anton\source\repos\07. Lab\04. Word Filter\obj\Debug\net5.0\04. Word Filter.csproj.CoreCompileInputs.cache
+C:\Users\anton\source\repos\07. Lab\04. Word Filter\obj\Debug\net5.0\04. Word Filter.dll
+C:\Users\anton\source\repos\07. Lab\04. Word Filter\obj\Debug\net5.0\ref\04. Word Filter.dll
+C:\Users\anton\source\repos\07. Lab\04. Word Filter\obj\Debug\net5.0\04. Word Filter.pdb
+C:\Users\anton\source\repos\07. Lab\04. Word Filter\obj\Debug\net5.0\04. Word Filter.genruntimeconfig.cache

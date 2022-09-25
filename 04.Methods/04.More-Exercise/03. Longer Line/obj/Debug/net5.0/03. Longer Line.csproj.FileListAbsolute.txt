@@ -1,0 +1,16 @@
+D:\SU\#fund-csharp_05.2022\04\04. More-Exercise\03. Longer Line\bin\Debug\net5.0\03. Longer Line.exe
+D:\SU\#fund-csharp_05.2022\04\04. More-Exercise\03. Longer Line\bin\Debug\net5.0\03. Longer Line.deps.json
+D:\SU\#fund-csharp_05.2022\04\04. More-Exercise\03. Longer Line\bin\Debug\net5.0\03. Longer Line.runtimeconfig.json
+D:\SU\#fund-csharp_05.2022\04\04. More-Exercise\03. Longer Line\bin\Debug\net5.0\03. Longer Line.runtimeconfig.dev.json
+D:\SU\#fund-csharp_05.2022\04\04. More-Exercise\03. Longer Line\bin\Debug\net5.0\03. Longer Line.dll
+D:\SU\#fund-csharp_05.2022\04\04. More-Exercise\03. Longer Line\bin\Debug\net5.0\ref\03. Longer Line.dll
+D:\SU\#fund-csharp_05.2022\04\04. More-Exercise\03. Longer Line\bin\Debug\net5.0\03. Longer Line.pdb
+D:\SU\#fund-csharp_05.2022\04\04. More-Exercise\03. Longer Line\obj\Debug\net5.0\03. Longer Line.csproj.AssemblyReference.cache
+D:\SU\#fund-csharp_05.2022\04\04. More-Exercise\03. Longer Line\obj\Debug\net5.0\03. Longer Line.GeneratedMSBuildEditorConfig.editorconfig
+D:\SU\#fund-csharp_05.2022\04\04. More-Exercise\03. Longer Line\obj\Debug\net5.0\03. Longer Line.AssemblyInfoInputs.cache
+D:\SU\#fund-csharp_05.2022\04\04. More-Exercise\03. Longer Line\obj\Debug\net5.0\03. Longer Line.AssemblyInfo.cs
+D:\SU\#fund-csharp_05.2022\04\04. More-Exercise\03. Longer Line\obj\Debug\net5.0\03. Longer Line.csproj.CoreCompileInputs.cache
+D:\SU\#fund-csharp_05.2022\04\04. More-Exercise\03. Longer Line\obj\Debug\net5.0\03. Longer Line.dll
+D:\SU\#fund-csharp_05.2022\04\04. More-Exercise\03. Longer Line\obj\Debug\net5.0\ref\03. Longer Line.dll
+D:\SU\#fund-csharp_05.2022\04\04. More-Exercise\03. Longer Line\obj\Debug\net5.0\03. Longer Line.pdb
+D:\SU\#fund-csharp_05.2022\04\04. More-Exercise\03. Longer Line\obj\Debug\net5.0\03. Longer Line.genruntimeconfig.cache

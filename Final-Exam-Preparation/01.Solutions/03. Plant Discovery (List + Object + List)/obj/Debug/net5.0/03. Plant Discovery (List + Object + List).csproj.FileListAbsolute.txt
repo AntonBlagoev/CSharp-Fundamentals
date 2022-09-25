@@ -1,0 +1,16 @@
+D:\SU\#fund-csharp_05.2022\Final-Exam\03. Plant Discovery (List + Object + List)\bin\Debug\net5.0\03. Plant Discovery (List + Object + List).exe
+D:\SU\#fund-csharp_05.2022\Final-Exam\03. Plant Discovery (List + Object + List)\bin\Debug\net5.0\03. Plant Discovery (List + Object + List).deps.json
+D:\SU\#fund-csharp_05.2022\Final-Exam\03. Plant Discovery (List + Object + List)\bin\Debug\net5.0\03. Plant Discovery (List + Object + List).runtimeconfig.json
+D:\SU\#fund-csharp_05.2022\Final-Exam\03. Plant Discovery (List + Object + List)\bin\Debug\net5.0\03. Plant Discovery (List + Object + List).runtimeconfig.dev.json
+D:\SU\#fund-csharp_05.2022\Final-Exam\03. Plant Discovery (List + Object + List)\bin\Debug\net5.0\03. Plant Discovery (List + Object + List).dll
+D:\SU\#fund-csharp_05.2022\Final-Exam\03. Plant Discovery (List + Object + List)\bin\Debug\net5.0\ref\03. Plant Discovery (List + Object + List).dll
+D:\SU\#fund-csharp_05.2022\Final-Exam\03. Plant Discovery (List + Object + List)\bin\Debug\net5.0\03. Plant Discovery (List + Object + List).pdb
+D:\SU\#fund-csharp_05.2022\Final-Exam\03. Plant Discovery (List + Object + List)\obj\Debug\net5.0\03. Plant Discovery (List + Object + List).csproj.AssemblyReference.cache
+D:\SU\#fund-csharp_05.2022\Final-Exam\03. Plant Discovery (List + Object + List)\obj\Debug\net5.0\03. Plant Discovery (List + Object + List).GeneratedMSBuildEditorConfig.editorconfig
+D:\SU\#fund-csharp_05.2022\Final-Exam\03. Plant Discovery (List + Object + List)\obj\Debug\net5.0\03. Plant Discovery (List + Object + List).AssemblyInfoInputs.cache
+D:\SU\#fund-csharp_05.2022\Final-Exam\03. Plant Discovery (List + Object + List)\obj\Debug\net5.0\03. Plant Discovery (List + Object + List).AssemblyInfo.cs
+D:\SU\#fund-csharp_05.2022\Final-Exam\03. Plant Discovery (List + Object + List)\obj\Debug\net5.0\03. Plant Discovery (List + Object + List).csproj.CoreCompileInputs.cache
+D:\SU\#fund-csharp_05.2022\Final-Exam\03. Plant Discovery (List + Object + List)\obj\Debug\net5.0\03. Plant Discovery (List + Object + List).dll
+D:\SU\#fund-csharp_05.2022\Final-Exam\03. Plant Discovery (List + Object + List)\obj\Debug\net5.0\ref\03. Plant Discovery (List + Object + List).dll
+D:\SU\#fund-csharp_05.2022\Final-Exam\03. Plant Discovery (List + Object + List)\obj\Debug\net5.0\03. Plant Discovery (List + Object + List).pdb
+D:\SU\#fund-csharp_05.2022\Final-Exam\03. Plant Discovery (List + Object + List)\obj\Debug\net5.0\03. Plant Discovery (List + Object + List).genruntimeconfig.cache

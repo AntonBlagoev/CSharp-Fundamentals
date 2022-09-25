@@ -1,0 +1,16 @@
+D:\SU\#fund-csharp_05.2022\03\03. More-Exercise\02. Pascal Triangle\bin\Debug\net5.0\02. Pascal Triangle.exe
+D:\SU\#fund-csharp_05.2022\03\03. More-Exercise\02. Pascal Triangle\bin\Debug\net5.0\02. Pascal Triangle.deps.json
+D:\SU\#fund-csharp_05.2022\03\03. More-Exercise\02. Pascal Triangle\bin\Debug\net5.0\02. Pascal Triangle.runtimeconfig.json
+D:\SU\#fund-csharp_05.2022\03\03. More-Exercise\02. Pascal Triangle\bin\Debug\net5.0\02. Pascal Triangle.runtimeconfig.dev.json
+D:\SU\#fund-csharp_05.2022\03\03. More-Exercise\02. Pascal Triangle\bin\Debug\net5.0\02. Pascal Triangle.dll
+D:\SU\#fund-csharp_05.2022\03\03. More-Exercise\02. Pascal Triangle\bin\Debug\net5.0\ref\02. Pascal Triangle.dll
+D:\SU\#fund-csharp_05.2022\03\03. More-Exercise\02. Pascal Triangle\bin\Debug\net5.0\02. Pascal Triangle.pdb
+D:\SU\#fund-csharp_05.2022\03\03. More-Exercise\02. Pascal Triangle\obj\Debug\net5.0\02. Pascal Triangle.csproj.AssemblyReference.cache
+D:\SU\#fund-csharp_05.2022\03\03. More-Exercise\02. Pascal Triangle\obj\Debug\net5.0\02. Pascal Triangle.GeneratedMSBuildEditorConfig.editorconfig
+D:\SU\#fund-csharp_05.2022\03\03. More-Exercise\02. Pascal Triangle\obj\Debug\net5.0\02. Pascal Triangle.AssemblyInfoInputs.cache
+D:\SU\#fund-csharp_05.2022\03\03. More-Exercise\02. Pascal Triangle\obj\Debug\net5.0\02. Pascal Triangle.AssemblyInfo.cs
+D:\SU\#fund-csharp_05.2022\03\03. More-Exercise\02. Pascal Triangle\obj\Debug\net5.0\02. Pascal Triangle.csproj.CoreCompileInputs.cache
+D:\SU\#fund-csharp_05.2022\03\03. More-Exercise\02. Pascal Triangle\obj\Debug\net5.0\02. Pascal Triangle.dll
+D:\SU\#fund-csharp_05.2022\03\03. More-Exercise\02. Pascal Triangle\obj\Debug\net5.0\ref\02. Pascal Triangle.dll
+D:\SU\#fund-csharp_05.2022\03\03. More-Exercise\02. Pascal Triangle\obj\Debug\net5.0\02. Pascal Triangle.pdb
+D:\SU\#fund-csharp_05.2022\03\03. More-Exercise\02. Pascal Triangle\obj\Debug\net5.0\02. Pascal Triangle.genruntimeconfig.cache

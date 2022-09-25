@@ -1,0 +1,16 @@
+C:\Users\anton\source\repos\06. Lab\02. Big Factorial\bin\Debug\net5.0\02. Big Factorial.exe
+C:\Users\anton\source\repos\06. Lab\02. Big Factorial\bin\Debug\net5.0\02. Big Factorial.deps.json
+C:\Users\anton\source\repos\06. Lab\02. Big Factorial\bin\Debug\net5.0\02. Big Factorial.runtimeconfig.json
+C:\Users\anton\source\repos\06. Lab\02. Big Factorial\bin\Debug\net5.0\02. Big Factorial.runtimeconfig.dev.json
+C:\Users\anton\source\repos\06. Lab\02. Big Factorial\bin\Debug\net5.0\02. Big Factorial.dll
+C:\Users\anton\source\repos\06. Lab\02. Big Factorial\bin\Debug\net5.0\ref\02. Big Factorial.dll
+C:\Users\anton\source\repos\06. Lab\02. Big Factorial\bin\Debug\net5.0\02. Big Factorial.pdb
+C:\Users\anton\source\repos\06. Lab\02. Big Factorial\obj\Debug\net5.0\02. Big Factorial.csproj.AssemblyReference.cache
+C:\Users\anton\source\repos\06. Lab\02. Big Factorial\obj\Debug\net5.0\02. Big Factorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\source\repos\06. Lab\02. Big Factorial\obj\Debug\net5.0\02. Big Factorial.AssemblyInfoInputs.cache
+C:\Users\anton\source\repos\06. Lab\02. Big Factorial\obj\Debug\net5.0\02. Big Factorial.AssemblyInfo.cs
+C:\Users\anton\source\repos\06. Lab\02. Big Factorial\obj\Debug\net5.0\02. Big Factorial.csproj.CoreCompileInputs.cache
+C:\Users\anton\source\repos\06. Lab\02. Big Factorial\obj\Debug\net5.0\02. Big Factorial.dll
+C:\Users\anton\source\repos\06. Lab\02. Big Factorial\obj\Debug\net5.0\ref\02. Big Factorial.dll
+C:\Users\anton\source\repos\06. Lab\02. Big Factorial\obj\Debug\net5.0\02. Big Factorial.pdb
+C:\Users\anton\source\repos\06. Lab\02. Big Factorial\obj\Debug\net5.0\02. Big Factorial.genruntimeconfig.cache

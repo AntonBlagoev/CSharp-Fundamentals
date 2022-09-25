@@ -1,0 +1,16 @@
+D:\SU\#fund-csharp_05.2022\01\01. More-Exercise\02. English Name of the Last Digit\bin\Debug\net5.0\02. English Name of the Last Digit.exe
+D:\SU\#fund-csharp_05.2022\01\01. More-Exercise\02. English Name of the Last Digit\bin\Debug\net5.0\02. English Name of the Last Digit.deps.json
+D:\SU\#fund-csharp_05.2022\01\01. More-Exercise\02. English Name of the Last Digit\bin\Debug\net5.0\02. English Name of the Last Digit.runtimeconfig.json
+D:\SU\#fund-csharp_05.2022\01\01. More-Exercise\02. English Name of the Last Digit\bin\Debug\net5.0\02. English Name of the Last Digit.runtimeconfig.dev.json
+D:\SU\#fund-csharp_05.2022\01\01. More-Exercise\02. English Name of the Last Digit\bin\Debug\net5.0\02. English Name of the Last Digit.dll
+D:\SU\#fund-csharp_05.2022\01\01. More-Exercise\02. English Name of the Last Digit\bin\Debug\net5.0\ref\02. English Name of the Last Digit.dll
+D:\SU\#fund-csharp_05.2022\01\01. More-Exercise\02. English Name of the Last Digit\bin\Debug\net5.0\02. English Name of the Last Digit.pdb
+D:\SU\#fund-csharp_05.2022\01\01. More-Exercise\02. English Name of the Last Digit\obj\Debug\net5.0\02. English Name of the Last Digit.csproj.AssemblyReference.cache
+D:\SU\#fund-csharp_05.2022\01\01. More-Exercise\02. English Name of the Last Digit\obj\Debug\net5.0\02. English Name of the Last Digit.GeneratedMSBuildEditorConfig.editorconfig
+D:\SU\#fund-csharp_05.2022\01\01. More-Exercise\02. English Name of the Last Digit\obj\Debug\net5.0\02. English Name of the Last Digit.AssemblyInfoInputs.cache
+D:\SU\#fund-csharp_05.2022\01\01. More-Exercise\02. English Name of the Last Digit\obj\Debug\net5.0\02. English Name of the Last Digit.AssemblyInfo.cs
+D:\SU\#fund-csharp_05.2022\01\01. More-Exercise\02. English Name of the Last Digit\obj\Debug\net5.0\02. English Name of the Last Digit.csproj.CoreCompileInputs.cache
+D:\SU\#fund-csharp_05.2022\01\01. More-Exercise\02. English Name of the Last Digit\obj\Debug\net5.0\02. English Name of the Last Digit.dll
+D:\SU\#fund-csharp_05.2022\01\01. More-Exercise\02. English Name of the Last Digit\obj\Debug\net5.0\ref\02. English Name of the Last Digit.dll
+D:\SU\#fund-csharp_05.2022\01\01. More-Exercise\02. English Name of the Last Digit\obj\Debug\net5.0\02. English Name of the Last Digit.pdb
+D:\SU\#fund-csharp_05.2022\01\01. More-Exercise\02. English Name of the Last Digit\obj\Debug\net5.0\02. English Name of the Last Digit.genruntimeconfig.cache

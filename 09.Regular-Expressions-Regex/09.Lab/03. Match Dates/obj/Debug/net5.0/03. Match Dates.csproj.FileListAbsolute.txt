@@ -1,0 +1,16 @@
+D:\SU\#fund-csharp_05.2022\09\09. Lab\03. Match Dates\bin\Debug\net5.0\03. Match Dates.exe
+D:\SU\#fund-csharp_05.2022\09\09. Lab\03. Match Dates\bin\Debug\net5.0\03. Match Dates.deps.json
+D:\SU\#fund-csharp_05.2022\09\09. Lab\03. Match Dates\bin\Debug\net5.0\03. Match Dates.runtimeconfig.json
+D:\SU\#fund-csharp_05.2022\09\09. Lab\03. Match Dates\bin\Debug\net5.0\03. Match Dates.runtimeconfig.dev.json
+D:\SU\#fund-csharp_05.2022\09\09. Lab\03. Match Dates\bin\Debug\net5.0\03. Match Dates.dll
+D:\SU\#fund-csharp_05.2022\09\09. Lab\03. Match Dates\bin\Debug\net5.0\ref\03. Match Dates.dll
+D:\SU\#fund-csharp_05.2022\09\09. Lab\03. Match Dates\bin\Debug\net5.0\03. Match Dates.pdb
+D:\SU\#fund-csharp_05.2022\09\09. Lab\03. Match Dates\obj\Debug\net5.0\03. Match Dates.csproj.AssemblyReference.cache
+D:\SU\#fund-csharp_05.2022\09\09. Lab\03. Match Dates\obj\Debug\net5.0\03. Match Dates.GeneratedMSBuildEditorConfig.editorconfig
+D:\SU\#fund-csharp_05.2022\09\09. Lab\03. Match Dates\obj\Debug\net5.0\03. Match Dates.AssemblyInfoInputs.cache
+D:\SU\#fund-csharp_05.2022\09\09. Lab\03. Match Dates\obj\Debug\net5.0\03. Match Dates.AssemblyInfo.cs
+D:\SU\#fund-csharp_05.2022\09\09. Lab\03. Match Dates\obj\Debug\net5.0\03. Match Dates.csproj.CoreCompileInputs.cache
+D:\SU\#fund-csharp_05.2022\09\09. Lab\03. Match Dates\obj\Debug\net5.0\03. Match Dates.dll
+D:\SU\#fund-csharp_05.2022\09\09. Lab\03. Match Dates\obj\Debug\net5.0\ref\03. Match Dates.dll
+D:\SU\#fund-csharp_05.2022\09\09. Lab\03. Match Dates\obj\Debug\net5.0\03. Match Dates.pdb
+D:\SU\#fund-csharp_05.2022\09\09. Lab\03. Match Dates\obj\Debug\net5.0\03. Match Dates.genruntimeconfig.cache

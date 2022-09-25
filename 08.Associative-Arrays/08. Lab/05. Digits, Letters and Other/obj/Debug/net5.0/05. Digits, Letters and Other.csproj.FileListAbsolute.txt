@@ -1,0 +1,16 @@
+C:\Users\anton\source\repos\08. Lab\05. Digits, Letters and Other\bin\Debug\net5.0\05. Digits, Letters and Other.exe
+C:\Users\anton\source\repos\08. Lab\05. Digits, Letters and Other\bin\Debug\net5.0\05. Digits, Letters and Other.deps.json
+C:\Users\anton\source\repos\08. Lab\05. Digits, Letters and Other\bin\Debug\net5.0\05. Digits, Letters and Other.runtimeconfig.json
+C:\Users\anton\source\repos\08. Lab\05. Digits, Letters and Other\bin\Debug\net5.0\05. Digits, Letters and Other.runtimeconfig.dev.json
+C:\Users\anton\source\repos\08. Lab\05. Digits, Letters and Other\bin\Debug\net5.0\05. Digits, Letters and Other.dll
+C:\Users\anton\source\repos\08. Lab\05. Digits, Letters and Other\bin\Debug\net5.0\ref\05. Digits, Letters and Other.dll
+C:\Users\anton\source\repos\08. Lab\05. Digits, Letters and Other\bin\Debug\net5.0\05. Digits, Letters and Other.pdb
+C:\Users\anton\source\repos\08. Lab\05. Digits, Letters and Other\obj\Debug\net5.0\05. Digits, Letters and Other.csproj.AssemblyReference.cache
+C:\Users\anton\source\repos\08. Lab\05. Digits, Letters and Other\obj\Debug\net5.0\05. Digits, Letters and Other.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\source\repos\08. Lab\05. Digits, Letters and Other\obj\Debug\net5.0\05. Digits, Letters and Other.AssemblyInfoInputs.cache
+C:\Users\anton\source\repos\08. Lab\05. Digits, Letters and Other\obj\Debug\net5.0\05. Digits, Letters and Other.AssemblyInfo.cs
+C:\Users\anton\source\repos\08. Lab\05. Digits, Letters and Other\obj\Debug\net5.0\05. Digits, Letters and Other.csproj.CoreCompileInputs.cache
+C:\Users\anton\source\repos\08. Lab\05. Digits, Letters and Other\obj\Debug\net5.0\05. Digits, Letters and Other.dll
+C:\Users\anton\source\repos\08. Lab\05. Digits, Letters and Other\obj\Debug\net5.0\ref\05. Digits, Letters and Other.dll
+C:\Users\anton\source\repos\08. Lab\05. Digits, Letters and Other\obj\Debug\net5.0\05. Digits, Letters and Other.pdb
+C:\Users\anton\source\repos\08. Lab\05. Digits, Letters and Other\obj\Debug\net5.0\05. Digits, Letters and Other.genruntimeconfig.cache

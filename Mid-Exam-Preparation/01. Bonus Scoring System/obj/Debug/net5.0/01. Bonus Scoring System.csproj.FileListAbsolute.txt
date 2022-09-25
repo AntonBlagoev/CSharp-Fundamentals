@@ -1,0 +1,16 @@
+D:\SU\#fund-csharp_05.2022\04\Mid-Exam\01. Bonus Scoring System\bin\Debug\net5.0\01. Bonus Scoring System.exe
+D:\SU\#fund-csharp_05.2022\04\Mid-Exam\01. Bonus Scoring System\bin\Debug\net5.0\01. Bonus Scoring System.deps.json
+D:\SU\#fund-csharp_05.2022\04\Mid-Exam\01. Bonus Scoring System\bin\Debug\net5.0\01. Bonus Scoring System.runtimeconfig.json
+D:\SU\#fund-csharp_05.2022\04\Mid-Exam\01. Bonus Scoring System\bin\Debug\net5.0\01. Bonus Scoring System.runtimeconfig.dev.json
+D:\SU\#fund-csharp_05.2022\04\Mid-Exam\01. Bonus Scoring System\bin\Debug\net5.0\01. Bonus Scoring System.dll
+D:\SU\#fund-csharp_05.2022\04\Mid-Exam\01. Bonus Scoring System\bin\Debug\net5.0\ref\01. Bonus Scoring System.dll
+D:\SU\#fund-csharp_05.2022\04\Mid-Exam\01. Bonus Scoring System\bin\Debug\net5.0\01. Bonus Scoring System.pdb
+D:\SU\#fund-csharp_05.2022\04\Mid-Exam\01. Bonus Scoring System\obj\Debug\net5.0\01. Bonus Scoring System.csproj.AssemblyReference.cache
+D:\SU\#fund-csharp_05.2022\04\Mid-Exam\01. Bonus Scoring System\obj\Debug\net5.0\01. Bonus Scoring System.GeneratedMSBuildEditorConfig.editorconfig
+D:\SU\#fund-csharp_05.2022\04\Mid-Exam\01. Bonus Scoring System\obj\Debug\net5.0\01. Bonus Scoring System.AssemblyInfoInputs.cache
+D:\SU\#fund-csharp_05.2022\04\Mid-Exam\01. Bonus Scoring System\obj\Debug\net5.0\01. Bonus Scoring System.AssemblyInfo.cs
+D:\SU\#fund-csharp_05.2022\04\Mid-Exam\01. Bonus Scoring System\obj\Debug\net5.0\01. Bonus Scoring System.csproj.CoreCompileInputs.cache
+D:\SU\#fund-csharp_05.2022\04\Mid-Exam\01. Bonus Scoring System\obj\Debug\net5.0\01. Bonus Scoring System.dll
+D:\SU\#fund-csharp_05.2022\04\Mid-Exam\01. Bonus Scoring System\obj\Debug\net5.0\ref\01. Bonus Scoring System.dll
+D:\SU\#fund-csharp_05.2022\04\Mid-Exam\01. Bonus Scoring System\obj\Debug\net5.0\01. Bonus Scoring System.pdb
+D:\SU\#fund-csharp_05.2022\04\Mid-Exam\01. Bonus Scoring System\obj\Debug\net5.0\01. Bonus Scoring System.genruntimeconfig.cache

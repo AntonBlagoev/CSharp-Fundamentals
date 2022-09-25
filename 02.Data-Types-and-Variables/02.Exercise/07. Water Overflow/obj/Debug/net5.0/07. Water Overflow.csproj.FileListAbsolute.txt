@@ -1,0 +1,15 @@
+D:\SU\#fund-csharp_05.2022\02\02. Exercise\07. Water Overflow\bin\Debug\net5.0\07. Water Overflow.exe
+D:\SU\#fund-csharp_05.2022\02\02. Exercise\07. Water Overflow\bin\Debug\net5.0\07. Water Overflow.deps.json
+D:\SU\#fund-csharp_05.2022\02\02. Exercise\07. Water Overflow\bin\Debug\net5.0\07. Water Overflow.runtimeconfig.json
+D:\SU\#fund-csharp_05.2022\02\02. Exercise\07. Water Overflow\bin\Debug\net5.0\07. Water Overflow.runtimeconfig.dev.json
+D:\SU\#fund-csharp_05.2022\02\02. Exercise\07. Water Overflow\bin\Debug\net5.0\07. Water Overflow.dll
+D:\SU\#fund-csharp_05.2022\02\02. Exercise\07. Water Overflow\bin\Debug\net5.0\ref\07. Water Overflow.dll
+D:\SU\#fund-csharp_05.2022\02\02. Exercise\07. Water Overflow\bin\Debug\net5.0\07. Water Overflow.pdb
+D:\SU\#fund-csharp_05.2022\02\02. Exercise\07. Water Overflow\obj\Debug\net5.0\07. Water Overflow.GeneratedMSBuildEditorConfig.editorconfig
+D:\SU\#fund-csharp_05.2022\02\02. Exercise\07. Water Overflow\obj\Debug\net5.0\07. Water Overflow.AssemblyInfoInputs.cache
+D:\SU\#fund-csharp_05.2022\02\02. Exercise\07. Water Overflow\obj\Debug\net5.0\07. Water Overflow.AssemblyInfo.cs
+D:\SU\#fund-csharp_05.2022\02\02. Exercise\07. Water Overflow\obj\Debug\net5.0\07. Water Overflow.csproj.CoreCompileInputs.cache
+D:\SU\#fund-csharp_05.2022\02\02. Exercise\07. Water Overflow\obj\Debug\net5.0\07. Water Overflow.dll
+D:\SU\#fund-csharp_05.2022\02\02. Exercise\07. Water Overflow\obj\Debug\net5.0\ref\07. Water Overflow.dll
+D:\SU\#fund-csharp_05.2022\02\02. Exercise\07. Water Overflow\obj\Debug\net5.0\07. Water Overflow.pdb
+D:\SU\#fund-csharp_05.2022\02\02. Exercise\07. Water Overflow\obj\Debug\net5.0\07. Water Overflow.genruntimeconfig.cache

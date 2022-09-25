@@ -1,0 +1,15 @@
+C:\Users\anton\source\repos\08. Lab\04. Text Filter\obj\Debug\net5.0\04. Text Filter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\source\repos\08. Lab\04. Text Filter\obj\Debug\net5.0\04. Text Filter.AssemblyInfoInputs.cache
+C:\Users\anton\source\repos\08. Lab\04. Text Filter\obj\Debug\net5.0\04. Text Filter.AssemblyInfo.cs
+C:\Users\anton\source\repos\08. Lab\04. Text Filter\obj\Debug\net5.0\04. Text Filter.csproj.CoreCompileInputs.cache
+C:\Users\anton\source\repos\08. Lab\04. Text Filter\bin\Debug\net5.0\04. Text Filter.exe
+C:\Users\anton\source\repos\08. Lab\04. Text Filter\bin\Debug\net5.0\04. Text Filter.deps.json
+C:\Users\anton\source\repos\08. Lab\04. Text Filter\bin\Debug\net5.0\04. Text Filter.runtimeconfig.json
+C:\Users\anton\source\repos\08. Lab\04. Text Filter\bin\Debug\net5.0\04. Text Filter.runtimeconfig.dev.json
+C:\Users\anton\source\repos\08. Lab\04. Text Filter\bin\Debug\net5.0\04. Text Filter.dll
+C:\Users\anton\source\repos\08. Lab\04. Text Filter\bin\Debug\net5.0\ref\04. Text Filter.dll
+C:\Users\anton\source\repos\08. Lab\04. Text Filter\bin\Debug\net5.0\04. Text Filter.pdb
+C:\Users\anton\source\repos\08. Lab\04. Text Filter\obj\Debug\net5.0\04. Text Filter.dll
+C:\Users\anton\source\repos\08. Lab\04. Text Filter\obj\Debug\net5.0\ref\04. Text Filter.dll
+C:\Users\anton\source\repos\08. Lab\04. Text Filter\obj\Debug\net5.0\04. Text Filter.pdb
+C:\Users\anton\source\repos\08. Lab\04. Text Filter\obj\Debug\net5.0\04. Text Filter.genruntimeconfig.cache

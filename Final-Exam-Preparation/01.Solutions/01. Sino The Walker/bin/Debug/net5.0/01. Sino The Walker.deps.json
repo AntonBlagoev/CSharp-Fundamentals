@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "01. Sino The Walker/1.0.0": {
+        "runtime": {
+          "01. Sino The Walker.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "01. Sino The Walker/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+D:\SU\#fund-csharp_05.2022\04\Mid-Exam\02. Array Modifier\bin\Debug\net5.0\02. Array Modifier.exe
+D:\SU\#fund-csharp_05.2022\04\Mid-Exam\02. Array Modifier\bin\Debug\net5.0\02. Array Modifier.deps.json
+D:\SU\#fund-csharp_05.2022\04\Mid-Exam\02. Array Modifier\bin\Debug\net5.0\02. Array Modifier.runtimeconfig.json
+D:\SU\#fund-csharp_05.2022\04\Mid-Exam\02. Array Modifier\bin\Debug\net5.0\02. Array Modifier.runtimeconfig.dev.json
+D:\SU\#fund-csharp_05.2022\04\Mid-Exam\02. Array Modifier\bin\Debug\net5.0\02. Array Modifier.dll
+D:\SU\#fund-csharp_05.2022\04\Mid-Exam\02. Array Modifier\bin\Debug\net5.0\ref\02. Array Modifier.dll
+D:\SU\#fund-csharp_05.2022\04\Mid-Exam\02. Array Modifier\bin\Debug\net5.0\02. Array Modifier.pdb
+D:\SU\#fund-csharp_05.2022\04\Mid-Exam\02. Array Modifier\obj\Debug\net5.0\02. Array Modifier.GeneratedMSBuildEditorConfig.editorconfig
+D:\SU\#fund-csharp_05.2022\04\Mid-Exam\02. Array Modifier\obj\Debug\net5.0\02. Array Modifier.AssemblyInfoInputs.cache
+D:\SU\#fund-csharp_05.2022\04\Mid-Exam\02. Array Modifier\obj\Debug\net5.0\02. Array Modifier.AssemblyInfo.cs
+D:\SU\#fund-csharp_05.2022\04\Mid-Exam\02. Array Modifier\obj\Debug\net5.0\02. Array Modifier.csproj.CoreCompileInputs.cache
+D:\SU\#fund-csharp_05.2022\04\Mid-Exam\02. Array Modifier\obj\Debug\net5.0\02. Array Modifier.dll
+D:\SU\#fund-csharp_05.2022\04\Mid-Exam\02. Array Modifier\obj\Debug\net5.0\ref\02. Array Modifier.dll
+D:\SU\#fund-csharp_05.2022\04\Mid-Exam\02. Array Modifier\obj\Debug\net5.0\02. Array Modifier.pdb
+D:\SU\#fund-csharp_05.2022\04\Mid-Exam\02. Array Modifier\obj\Debug\net5.0\02. Array Modifier.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+D:\SU\#fund-csharp_05.2022\02\02. Exercise\08. Beer Kegs\bin\Debug\net5.0\08. Beer Kegs.exe
+D:\SU\#fund-csharp_05.2022\02\02. Exercise\08. Beer Kegs\bin\Debug\net5.0\08. Beer Kegs.deps.json
+D:\SU\#fund-csharp_05.2022\02\02. Exercise\08. Beer Kegs\bin\Debug\net5.0\08. Beer Kegs.runtimeconfig.json
+D:\SU\#fund-csharp_05.2022\02\02. Exercise\08. Beer Kegs\bin\Debug\net5.0\08. Beer Kegs.runtimeconfig.dev.json
+D:\SU\#fund-csharp_05.2022\02\02. Exercise\08. Beer Kegs\bin\Debug\net5.0\08. Beer Kegs.dll
+D:\SU\#fund-csharp_05.2022\02\02. Exercise\08. Beer Kegs\bin\Debug\net5.0\ref\08. Beer Kegs.dll
+D:\SU\#fund-csharp_05.2022\02\02. Exercise\08. Beer Kegs\bin\Debug\net5.0\08. Beer Kegs.pdb
+D:\SU\#fund-csharp_05.2022\02\02. Exercise\08. Beer Kegs\obj\Debug\net5.0\08. Beer Kegs.GeneratedMSBuildEditorConfig.editorconfig
+D:\SU\#fund-csharp_05.2022\02\02. Exercise\08. Beer Kegs\obj\Debug\net5.0\08. Beer Kegs.AssemblyInfoInputs.cache
+D:\SU\#fund-csharp_05.2022\02\02. Exercise\08. Beer Kegs\obj\Debug\net5.0\08. Beer Kegs.AssemblyInfo.cs
+D:\SU\#fund-csharp_05.2022\02\02. Exercise\08. Beer Kegs\obj\Debug\net5.0\08. Beer Kegs.csproj.CoreCompileInputs.cache
+D:\SU\#fund-csharp_05.2022\02\02. Exercise\08. Beer Kegs\obj\Debug\net5.0\08. Beer Kegs.dll
+D:\SU\#fund-csharp_05.2022\02\02. Exercise\08. Beer Kegs\obj\Debug\net5.0\ref\08. Beer Kegs.dll
+D:\SU\#fund-csharp_05.2022\02\02. Exercise\08. Beer Kegs\obj\Debug\net5.0\08. Beer Kegs.pdb
+D:\SU\#fund-csharp_05.2022\02\02. Exercise\08. Beer Kegs\obj\Debug\net5.0\08. Beer Kegs.genruntimeconfig.cache

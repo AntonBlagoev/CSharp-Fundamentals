@@ -1,0 +1,15 @@
+D:\SU\#fund-csharp_05.2022\02\02. Exercise\05. Print Part Of ASCII Table\bin\Debug\net5.0\05. Print Part Of ASCII Table.exe
+D:\SU\#fund-csharp_05.2022\02\02. Exercise\05. Print Part Of ASCII Table\bin\Debug\net5.0\05. Print Part Of ASCII Table.deps.json
+D:\SU\#fund-csharp_05.2022\02\02. Exercise\05. Print Part Of ASCII Table\bin\Debug\net5.0\05. Print Part Of ASCII Table.runtimeconfig.json
+D:\SU\#fund-csharp_05.2022\02\02. Exercise\05. Print Part Of ASCII Table\bin\Debug\net5.0\05. Print Part Of ASCII Table.runtimeconfig.dev.json
+D:\SU\#fund-csharp_05.2022\02\02. Exercise\05. Print Part Of ASCII Table\bin\Debug\net5.0\05. Print Part Of ASCII Table.dll
+D:\SU\#fund-csharp_05.2022\02\02. Exercise\05. Print Part Of ASCII Table\bin\Debug\net5.0\ref\05. Print Part Of ASCII Table.dll
+D:\SU\#fund-csharp_05.2022\02\02. Exercise\05. Print Part Of ASCII Table\bin\Debug\net5.0\05. Print Part Of ASCII Table.pdb
+D:\SU\#fund-csharp_05.2022\02\02. Exercise\05. Print Part Of ASCII Table\obj\Debug\net5.0\05. Print Part Of ASCII Table.GeneratedMSBuildEditorConfig.editorconfig
+D:\SU\#fund-csharp_05.2022\02\02. Exercise\05. Print Part Of ASCII Table\obj\Debug\net5.0\05. Print Part Of ASCII Table.AssemblyInfoInputs.cache
+D:\SU\#fund-csharp_05.2022\02\02. Exercise\05. Print Part Of ASCII Table\obj\Debug\net5.0\05. Print Part Of ASCII Table.AssemblyInfo.cs
+D:\SU\#fund-csharp_05.2022\02\02. Exercise\05. Print Part Of ASCII Table\obj\Debug\net5.0\05. Print Part Of ASCII Table.csproj.CoreCompileInputs.cache
+D:\SU\#fund-csharp_05.2022\02\02. Exercise\05. Print Part Of ASCII Table\obj\Debug\net5.0\05. Print Part Of ASCII Table.dll
+D:\SU\#fund-csharp_05.2022\02\02. Exercise\05. Print Part Of ASCII Table\obj\Debug\net5.0\ref\05. Print Part Of ASCII Table.dll
+D:\SU\#fund-csharp_05.2022\02\02. Exercise\05. Print Part Of ASCII Table\obj\Debug\net5.0\05. Print Part Of ASCII Table.pdb
+D:\SU\#fund-csharp_05.2022\02\02. Exercise\05. Print Part Of ASCII Table\obj\Debug\net5.0\05. Print Part Of ASCII Table.genruntimeconfig.cache

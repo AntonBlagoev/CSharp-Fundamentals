@@ -1,0 +1,16 @@
+D:\SU\#fund-csharp_05.2022\03\03. Exercise\09. Kamino Factory\bin\Debug\net5.0\09. Kamino Factory.exe
+D:\SU\#fund-csharp_05.2022\03\03. Exercise\09. Kamino Factory\bin\Debug\net5.0\09. Kamino Factory.deps.json
+D:\SU\#fund-csharp_05.2022\03\03. Exercise\09. Kamino Factory\bin\Debug\net5.0\09. Kamino Factory.runtimeconfig.json
+D:\SU\#fund-csharp_05.2022\03\03. Exercise\09. Kamino Factory\bin\Debug\net5.0\09. Kamino Factory.runtimeconfig.dev.json
+D:\SU\#fund-csharp_05.2022\03\03. Exercise\09. Kamino Factory\bin\Debug\net5.0\09. Kamino Factory.dll
+D:\SU\#fund-csharp_05.2022\03\03. Exercise\09. Kamino Factory\bin\Debug\net5.0\ref\09. Kamino Factory.dll
+D:\SU\#fund-csharp_05.2022\03\03. Exercise\09. Kamino Factory\bin\Debug\net5.0\09. Kamino Factory.pdb
+D:\SU\#fund-csharp_05.2022\03\03. Exercise\09. Kamino Factory\obj\Debug\net5.0\09. Kamino Factory.csproj.AssemblyReference.cache
+D:\SU\#fund-csharp_05.2022\03\03. Exercise\09. Kamino Factory\obj\Debug\net5.0\09. Kamino Factory.GeneratedMSBuildEditorConfig.editorconfig
+D:\SU\#fund-csharp_05.2022\03\03. Exercise\09. Kamino Factory\obj\Debug\net5.0\09. Kamino Factory.AssemblyInfoInputs.cache
+D:\SU\#fund-csharp_05.2022\03\03. Exercise\09. Kamino Factory\obj\Debug\net5.0\09. Kamino Factory.AssemblyInfo.cs
+D:\SU\#fund-csharp_05.2022\03\03. Exercise\09. Kamino Factory\obj\Debug\net5.0\09. Kamino Factory.csproj.CoreCompileInputs.cache
+D:\SU\#fund-csharp_05.2022\03\03. Exercise\09. Kamino Factory\obj\Debug\net5.0\09. Kamino Factory.dll
+D:\SU\#fund-csharp_05.2022\03\03. Exercise\09. Kamino Factory\obj\Debug\net5.0\ref\09. Kamino Factory.dll
+D:\SU\#fund-csharp_05.2022\03\03. Exercise\09. Kamino Factory\obj\Debug\net5.0\09. Kamino Factory.pdb
+D:\SU\#fund-csharp_05.2022\03\03. Exercise\09. Kamino Factory\obj\Debug\net5.0\09. Kamino Factory.genruntimeconfig.cache

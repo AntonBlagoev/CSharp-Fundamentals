@@ -1,0 +1,15 @@
+D:\SU\#fund-csharp_05.2022\01\01. Basic Syntax, Conditional Statements and Loops\08. Divisible by 3\bin\Debug\net5.0\08. Divisible by 3.exe
+D:\SU\#fund-csharp_05.2022\01\01. Basic Syntax, Conditional Statements and Loops\08. Divisible by 3\bin\Debug\net5.0\08. Divisible by 3.deps.json
+D:\SU\#fund-csharp_05.2022\01\01. Basic Syntax, Conditional Statements and Loops\08. Divisible by 3\bin\Debug\net5.0\08. Divisible by 3.runtimeconfig.json
+D:\SU\#fund-csharp_05.2022\01\01. Basic Syntax, Conditional Statements and Loops\08. Divisible by 3\bin\Debug\net5.0\08. Divisible by 3.runtimeconfig.dev.json
+D:\SU\#fund-csharp_05.2022\01\01. Basic Syntax, Conditional Statements and Loops\08. Divisible by 3\bin\Debug\net5.0\08. Divisible by 3.dll
+D:\SU\#fund-csharp_05.2022\01\01. Basic Syntax, Conditional Statements and Loops\08. Divisible by 3\bin\Debug\net5.0\ref\08. Divisible by 3.dll
+D:\SU\#fund-csharp_05.2022\01\01. Basic Syntax, Conditional Statements and Loops\08. Divisible by 3\bin\Debug\net5.0\08. Divisible by 3.pdb
+D:\SU\#fund-csharp_05.2022\01\01. Basic Syntax, Conditional Statements and Loops\08. Divisible by 3\obj\Debug\net5.0\08. Divisible by 3.GeneratedMSBuildEditorConfig.editorconfig
+D:\SU\#fund-csharp_05.2022\01\01. Basic Syntax, Conditional Statements and Loops\08. Divisible by 3\obj\Debug\net5.0\08. Divisible by 3.AssemblyInfoInputs.cache
+D:\SU\#fund-csharp_05.2022\01\01. Basic Syntax, Conditional Statements and Loops\08. Divisible by 3\obj\Debug\net5.0\08. Divisible by 3.AssemblyInfo.cs
+D:\SU\#fund-csharp_05.2022\01\01. Basic Syntax, Conditional Statements and Loops\08. Divisible by 3\obj\Debug\net5.0\08. Divisible by 3.csproj.CoreCompileInputs.cache
+D:\SU\#fund-csharp_05.2022\01\01. Basic Syntax, Conditional Statements and Loops\08. Divisible by 3\obj\Debug\net5.0\08. Divisible by 3.dll
+D:\SU\#fund-csharp_05.2022\01\01. Basic Syntax, Conditional Statements and Loops\08. Divisible by 3\obj\Debug\net5.0\ref\08. Divisible by 3.dll
+D:\SU\#fund-csharp_05.2022\01\01. Basic Syntax, Conditional Statements and Loops\08. Divisible by 3\obj\Debug\net5.0\08. Divisible by 3.pdb
+D:\SU\#fund-csharp_05.2022\01\01. Basic Syntax, Conditional Statements and Loops\08. Divisible by 3\obj\Debug\net5.0\08. Divisible by 3.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\SU\#fund-csharp_05.2022\Final-Exam-20220807\Final-Exam\02. Message Decrypter\bin\Debug\net5.0\02. Message Decrypter.exe
+D:\SU\#fund-csharp_05.2022\Final-Exam-20220807\Final-Exam\02. Message Decrypter\bin\Debug\net5.0\02. Message Decrypter.deps.json
+D:\SU\#fund-csharp_05.2022\Final-Exam-20220807\Final-Exam\02. Message Decrypter\bin\Debug\net5.0\02. Message Decrypter.runtimeconfig.json
+D:\SU\#fund-csharp_05.2022\Final-Exam-20220807\Final-Exam\02. Message Decrypter\bin\Debug\net5.0\02. Message Decrypter.runtimeconfig.dev.json
+D:\SU\#fund-csharp_05.2022\Final-Exam-20220807\Final-Exam\02. Message Decrypter\bin\Debug\net5.0\02. Message Decrypter.dll
+D:\SU\#fund-csharp_05.2022\Final-Exam-20220807\Final-Exam\02. Message Decrypter\bin\Debug\net5.0\ref\02. Message Decrypter.dll
+D:\SU\#fund-csharp_05.2022\Final-Exam-20220807\Final-Exam\02. Message Decrypter\bin\Debug\net5.0\02. Message Decrypter.pdb
+D:\SU\#fund-csharp_05.2022\Final-Exam-20220807\Final-Exam\02. Message Decrypter\obj\Debug\net5.0\02. Message Decrypter.csproj.AssemblyReference.cache
+D:\SU\#fund-csharp_05.2022\Final-Exam-20220807\Final-Exam\02. Message Decrypter\obj\Debug\net5.0\02. Message Decrypter.GeneratedMSBuildEditorConfig.editorconfig
+D:\SU\#fund-csharp_05.2022\Final-Exam-20220807\Final-Exam\02. Message Decrypter\obj\Debug\net5.0\02. Message Decrypter.AssemblyInfoInputs.cache
+D:\SU\#fund-csharp_05.2022\Final-Exam-20220807\Final-Exam\02. Message Decrypter\obj\Debug\net5.0\02. Message Decrypter.AssemblyInfo.cs
+D:\SU\#fund-csharp_05.2022\Final-Exam-20220807\Final-Exam\02. Message Decrypter\obj\Debug\net5.0\02. Message Decrypter.csproj.CoreCompileInputs.cache
+D:\SU\#fund-csharp_05.2022\Final-Exam-20220807\Final-Exam\02. Message Decrypter\obj\Debug\net5.0\02. Message Decrypter.dll
+D:\SU\#fund-csharp_05.2022\Final-Exam-20220807\Final-Exam\02. Message Decrypter\obj\Debug\net5.0\ref\02. Message Decrypter.dll
+D:\SU\#fund-csharp_05.2022\Final-Exam-20220807\Final-Exam\02. Message Decrypter\obj\Debug\net5.0\02. Message Decrypter.pdb
+D:\SU\#fund-csharp_05.2022\Final-Exam-20220807\Final-Exam\02. Message Decrypter\obj\Debug\net5.0\02. Message Decrypter.genruntimeconfig.cache

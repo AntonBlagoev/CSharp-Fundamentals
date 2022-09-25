@@ -1,0 +1,15 @@
+D:\SU\#fund-csharp_05.2022\04\04. More-Exercise\05. Multiplication Sign\bin\Debug\net5.0\05. Multiplication Sign.exe
+D:\SU\#fund-csharp_05.2022\04\04. More-Exercise\05. Multiplication Sign\bin\Debug\net5.0\05. Multiplication Sign.deps.json
+D:\SU\#fund-csharp_05.2022\04\04. More-Exercise\05. Multiplication Sign\bin\Debug\net5.0\05. Multiplication Sign.runtimeconfig.json
+D:\SU\#fund-csharp_05.2022\04\04. More-Exercise\05. Multiplication Sign\bin\Debug\net5.0\05. Multiplication Sign.runtimeconfig.dev.json
+D:\SU\#fund-csharp_05.2022\04\04. More-Exercise\05. Multiplication Sign\bin\Debug\net5.0\05. Multiplication Sign.dll
+D:\SU\#fund-csharp_05.2022\04\04. More-Exercise\05. Multiplication Sign\bin\Debug\net5.0\ref\05. Multiplication Sign.dll
+D:\SU\#fund-csharp_05.2022\04\04. More-Exercise\05. Multiplication Sign\bin\Debug\net5.0\05. Multiplication Sign.pdb
+D:\SU\#fund-csharp_05.2022\04\04. More-Exercise\05. Multiplication Sign\obj\Debug\net5.0\05. Multiplication Sign.GeneratedMSBuildEditorConfig.editorconfig
+D:\SU\#fund-csharp_05.2022\04\04. More-Exercise\05. Multiplication Sign\obj\Debug\net5.0\05. Multiplication Sign.AssemblyInfoInputs.cache
+D:\SU\#fund-csharp_05.2022\04\04. More-Exercise\05. Multiplication Sign\obj\Debug\net5.0\05. Multiplication Sign.AssemblyInfo.cs
+D:\SU\#fund-csharp_05.2022\04\04. More-Exercise\05. Multiplication Sign\obj\Debug\net5.0\05. Multiplication Sign.csproj.CoreCompileInputs.cache
+D:\SU\#fund-csharp_05.2022\04\04. More-Exercise\05. Multiplication Sign\obj\Debug\net5.0\05. Multiplication Sign.dll
+D:\SU\#fund-csharp_05.2022\04\04. More-Exercise\05. Multiplication Sign\obj\Debug\net5.0\ref\05. Multiplication Sign.dll
+D:\SU\#fund-csharp_05.2022\04\04. More-Exercise\05. Multiplication Sign\obj\Debug\net5.0\05. Multiplication Sign.pdb
+D:\SU\#fund-csharp_05.2022\04\04. More-Exercise\05. Multiplication Sign\obj\Debug\net5.0\05. Multiplication Sign.genruntimeconfig.cache

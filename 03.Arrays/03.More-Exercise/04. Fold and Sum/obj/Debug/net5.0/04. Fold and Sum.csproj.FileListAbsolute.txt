@@ -1,0 +1,16 @@
+D:\SU\#fund-csharp_05.2022\03\03. More-Exercise\04. Fold and Sum\bin\Debug\net5.0\04. Fold and Sum.exe
+D:\SU\#fund-csharp_05.2022\03\03. More-Exercise\04. Fold and Sum\bin\Debug\net5.0\04. Fold and Sum.deps.json
+D:\SU\#fund-csharp_05.2022\03\03. More-Exercise\04. Fold and Sum\bin\Debug\net5.0\04. Fold and Sum.runtimeconfig.json
+D:\SU\#fund-csharp_05.2022\03\03. More-Exercise\04. Fold and Sum\bin\Debug\net5.0\04. Fold and Sum.runtimeconfig.dev.json
+D:\SU\#fund-csharp_05.2022\03\03. More-Exercise\04. Fold and Sum\bin\Debug\net5.0\04. Fold and Sum.dll
+D:\SU\#fund-csharp_05.2022\03\03. More-Exercise\04. Fold and Sum\bin\Debug\net5.0\ref\04. Fold and Sum.dll
+D:\SU\#fund-csharp_05.2022\03\03. More-Exercise\04. Fold and Sum\bin\Debug\net5.0\04. Fold and Sum.pdb
+D:\SU\#fund-csharp_05.2022\03\03. More-Exercise\04. Fold and Sum\obj\Debug\net5.0\04. Fold and Sum.csproj.AssemblyReference.cache
+D:\SU\#fund-csharp_05.2022\03\03. More-Exercise\04. Fold and Sum\obj\Debug\net5.0\04. Fold and Sum.GeneratedMSBuildEditorConfig.editorconfig
+D:\SU\#fund-csharp_05.2022\03\03. More-Exercise\04. Fold and Sum\obj\Debug\net5.0\04. Fold and Sum.AssemblyInfoInputs.cache
+D:\SU\#fund-csharp_05.2022\03\03. More-Exercise\04. Fold and Sum\obj\Debug\net5.0\04. Fold and Sum.AssemblyInfo.cs
+D:\SU\#fund-csharp_05.2022\03\03. More-Exercise\04. Fold and Sum\obj\Debug\net5.0\04. Fold and Sum.csproj.CoreCompileInputs.cache
+D:\SU\#fund-csharp_05.2022\03\03. More-Exercise\04. Fold and Sum\obj\Debug\net5.0\04. Fold and Sum.dll
+D:\SU\#fund-csharp_05.2022\03\03. More-Exercise\04. Fold and Sum\obj\Debug\net5.0\ref\04. Fold and Sum.dll
+D:\SU\#fund-csharp_05.2022\03\03. More-Exercise\04. Fold and Sum\obj\Debug\net5.0\04. Fold and Sum.pdb
+D:\SU\#fund-csharp_05.2022\03\03. More-Exercise\04. Fold and Sum\obj\Debug\net5.0\04. Fold and Sum.genruntimeconfig.cache

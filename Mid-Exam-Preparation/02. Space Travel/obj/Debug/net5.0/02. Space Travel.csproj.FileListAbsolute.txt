@@ -1,0 +1,16 @@
+D:\SU\#fund-csharp_05.2022\04\Mid-Exam\02. Space Travel\bin\Debug\net5.0\02. Space Travel.exe
+D:\SU\#fund-csharp_05.2022\04\Mid-Exam\02. Space Travel\bin\Debug\net5.0\02. Space Travel.deps.json
+D:\SU\#fund-csharp_05.2022\04\Mid-Exam\02. Space Travel\bin\Debug\net5.0\02. Space Travel.runtimeconfig.json
+D:\SU\#fund-csharp_05.2022\04\Mid-Exam\02. Space Travel\bin\Debug\net5.0\02. Space Travel.runtimeconfig.dev.json
+D:\SU\#fund-csharp_05.2022\04\Mid-Exam\02. Space Travel\bin\Debug\net5.0\02. Space Travel.dll
+D:\SU\#fund-csharp_05.2022\04\Mid-Exam\02. Space Travel\bin\Debug\net5.0\ref\02. Space Travel.dll
+D:\SU\#fund-csharp_05.2022\04\Mid-Exam\02. Space Travel\bin\Debug\net5.0\02. Space Travel.pdb
+D:\SU\#fund-csharp_05.2022\04\Mid-Exam\02. Space Travel\obj\Debug\net5.0\02. Space Travel.csproj.AssemblyReference.cache
+D:\SU\#fund-csharp_05.2022\04\Mid-Exam\02. Space Travel\obj\Debug\net5.0\02. Space Travel.GeneratedMSBuildEditorConfig.editorconfig
+D:\SU\#fund-csharp_05.2022\04\Mid-Exam\02. Space Travel\obj\Debug\net5.0\02. Space Travel.AssemblyInfoInputs.cache
+D:\SU\#fund-csharp_05.2022\04\Mid-Exam\02. Space Travel\obj\Debug\net5.0\02. Space Travel.AssemblyInfo.cs
+D:\SU\#fund-csharp_05.2022\04\Mid-Exam\02. Space Travel\obj\Debug\net5.0\02. Space Travel.csproj.CoreCompileInputs.cache
+D:\SU\#fund-csharp_05.2022\04\Mid-Exam\02. Space Travel\obj\Debug\net5.0\02. Space Travel.dll
+D:\SU\#fund-csharp_05.2022\04\Mid-Exam\02. Space Travel\obj\Debug\net5.0\ref\02. Space Travel.dll
+D:\SU\#fund-csharp_05.2022\04\Mid-Exam\02. Space Travel\obj\Debug\net5.0\02. Space Travel.pdb
+D:\SU\#fund-csharp_05.2022\04\Mid-Exam\02. Space Travel\obj\Debug\net5.0\02. Space Travel.genruntimeconfig.cache

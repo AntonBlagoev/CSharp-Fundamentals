@@ -1,0 +1,16 @@
+D:\SU\#fund-csharp_05.2022\04\Mid-Exam\01. The Hunting Games\bin\Debug\net5.0\01. The Hunting Games.exe
+D:\SU\#fund-csharp_05.2022\04\Mid-Exam\01. The Hunting Games\bin\Debug\net5.0\01. The Hunting Games.deps.json
+D:\SU\#fund-csharp_05.2022\04\Mid-Exam\01. The Hunting Games\bin\Debug\net5.0\01. The Hunting Games.runtimeconfig.json
+D:\SU\#fund-csharp_05.2022\04\Mid-Exam\01. The Hunting Games\bin\Debug\net5.0\01. The Hunting Games.runtimeconfig.dev.json
+D:\SU\#fund-csharp_05.2022\04\Mid-Exam\01. The Hunting Games\bin\Debug\net5.0\01. The Hunting Games.dll
+D:\SU\#fund-csharp_05.2022\04\Mid-Exam\01. The Hunting Games\bin\Debug\net5.0\ref\01. The Hunting Games.dll
+D:\SU\#fund-csharp_05.2022\04\Mid-Exam\01. The Hunting Games\bin\Debug\net5.0\01. The Hunting Games.pdb
+D:\SU\#fund-csharp_05.2022\04\Mid-Exam\01. The Hunting Games\obj\Debug\net5.0\01. The Hunting Games.csproj.AssemblyReference.cache
+D:\SU\#fund-csharp_05.2022\04\Mid-Exam\01. The Hunting Games\obj\Debug\net5.0\01. The Hunting Games.GeneratedMSBuildEditorConfig.editorconfig
+D:\SU\#fund-csharp_05.2022\04\Mid-Exam\01. The Hunting Games\obj\Debug\net5.0\01. The Hunting Games.AssemblyInfoInputs.cache
+D:\SU\#fund-csharp_05.2022\04\Mid-Exam\01. The Hunting Games\obj\Debug\net5.0\01. The Hunting Games.AssemblyInfo.cs
+D:\SU\#fund-csharp_05.2022\04\Mid-Exam\01. The Hunting Games\obj\Debug\net5.0\01. The Hunting Games.csproj.CoreCompileInputs.cache
+D:\SU\#fund-csharp_05.2022\04\Mid-Exam\01. The Hunting Games\obj\Debug\net5.0\01. The Hunting Games.dll
+D:\SU\#fund-csharp_05.2022\04\Mid-Exam\01. The Hunting Games\obj\Debug\net5.0\ref\01. The Hunting Games.dll
+D:\SU\#fund-csharp_05.2022\04\Mid-Exam\01. The Hunting Games\obj\Debug\net5.0\01. The Hunting Games.pdb
+D:\SU\#fund-csharp_05.2022\04\Mid-Exam\01. The Hunting Games\obj\Debug\net5.0\01. The Hunting Games.genruntimeconfig.cache

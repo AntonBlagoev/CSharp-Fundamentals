@@ -1,0 +1,16 @@
+D:\SU\#fund-csharp_05.2022\02\01. More-Exercise\02. From Left to The Right\bin\Debug\net5.0\02. From Left to The Right.exe
+D:\SU\#fund-csharp_05.2022\02\01. More-Exercise\02. From Left to The Right\bin\Debug\net5.0\02. From Left to The Right.deps.json
+D:\SU\#fund-csharp_05.2022\02\01. More-Exercise\02. From Left to The Right\bin\Debug\net5.0\02. From Left to The Right.runtimeconfig.json
+D:\SU\#fund-csharp_05.2022\02\01. More-Exercise\02. From Left to The Right\bin\Debug\net5.0\02. From Left to The Right.runtimeconfig.dev.json
+D:\SU\#fund-csharp_05.2022\02\01. More-Exercise\02. From Left to The Right\bin\Debug\net5.0\02. From Left to The Right.dll
+D:\SU\#fund-csharp_05.2022\02\01. More-Exercise\02. From Left to The Right\bin\Debug\net5.0\ref\02. From Left to The Right.dll
+D:\SU\#fund-csharp_05.2022\02\01. More-Exercise\02. From Left to The Right\bin\Debug\net5.0\02. From Left to The Right.pdb
+D:\SU\#fund-csharp_05.2022\02\01. More-Exercise\02. From Left to The Right\obj\Debug\net5.0\02. From Left to The Right.csproj.AssemblyReference.cache
+D:\SU\#fund-csharp_05.2022\02\01. More-Exercise\02. From Left to The Right\obj\Debug\net5.0\02. From Left to The Right.GeneratedMSBuildEditorConfig.editorconfig
+D:\SU\#fund-csharp_05.2022\02\01. More-Exercise\02. From Left to The Right\obj\Debug\net5.0\02. From Left to The Right.AssemblyInfoInputs.cache
+D:\SU\#fund-csharp_05.2022\02\01. More-Exercise\02. From Left to The Right\obj\Debug\net5.0\02. From Left to The Right.AssemblyInfo.cs
+D:\SU\#fund-csharp_05.2022\02\01. More-Exercise\02. From Left to The Right\obj\Debug\net5.0\02. From Left to The Right.csproj.CoreCompileInputs.cache
+D:\SU\#fund-csharp_05.2022\02\01. More-Exercise\02. From Left to The Right\obj\Debug\net5.0\02. From Left to The Right.dll
+D:\SU\#fund-csharp_05.2022\02\01. More-Exercise\02. From Left to The Right\obj\Debug\net5.0\ref\02. From Left to The Right.dll
+D:\SU\#fund-csharp_05.2022\02\01. More-Exercise\02. From Left to The Right\obj\Debug\net5.0\02. From Left to The Right.pdb
+D:\SU\#fund-csharp_05.2022\02\01. More-Exercise\02. From Left to The Right\obj\Debug\net5.0\02. From Left to The Right.genruntimeconfig.cache

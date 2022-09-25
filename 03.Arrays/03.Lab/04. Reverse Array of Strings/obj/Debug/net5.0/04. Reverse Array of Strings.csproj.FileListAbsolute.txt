@@ -1,0 +1,15 @@
+D:\SU\#fund-csharp_05.2022\03\03. Lab\04. Reverse Array of Strings\bin\Debug\net5.0\04. Reverse Array of Strings.exe
+D:\SU\#fund-csharp_05.2022\03\03. Lab\04. Reverse Array of Strings\bin\Debug\net5.0\04. Reverse Array of Strings.deps.json
+D:\SU\#fund-csharp_05.2022\03\03. Lab\04. Reverse Array of Strings\bin\Debug\net5.0\04. Reverse Array of Strings.runtimeconfig.json
+D:\SU\#fund-csharp_05.2022\03\03. Lab\04. Reverse Array of Strings\bin\Debug\net5.0\04. Reverse Array of Strings.runtimeconfig.dev.json
+D:\SU\#fund-csharp_05.2022\03\03. Lab\04. Reverse Array of Strings\bin\Debug\net5.0\04. Reverse Array of Strings.dll
+D:\SU\#fund-csharp_05.2022\03\03. Lab\04. Reverse Array of Strings\bin\Debug\net5.0\ref\04. Reverse Array of Strings.dll
+D:\SU\#fund-csharp_05.2022\03\03. Lab\04. Reverse Array of Strings\bin\Debug\net5.0\04. Reverse Array of Strings.pdb
+D:\SU\#fund-csharp_05.2022\03\03. Lab\04. Reverse Array of Strings\obj\Debug\net5.0\04. Reverse Array of Strings.GeneratedMSBuildEditorConfig.editorconfig
+D:\SU\#fund-csharp_05.2022\03\03. Lab\04. Reverse Array of Strings\obj\Debug\net5.0\04. Reverse Array of Strings.AssemblyInfoInputs.cache
+D:\SU\#fund-csharp_05.2022\03\03. Lab\04. Reverse Array of Strings\obj\Debug\net5.0\04. Reverse Array of Strings.AssemblyInfo.cs
+D:\SU\#fund-csharp_05.2022\03\03. Lab\04. Reverse Array of Strings\obj\Debug\net5.0\04. Reverse Array of Strings.csproj.CoreCompileInputs.cache
+D:\SU\#fund-csharp_05.2022\03\03. Lab\04. Reverse Array of Strings\obj\Debug\net5.0\04. Reverse Array of Strings.dll
+D:\SU\#fund-csharp_05.2022\03\03. Lab\04. Reverse Array of Strings\obj\Debug\net5.0\ref\04. Reverse Array of Strings.dll
+D:\SU\#fund-csharp_05.2022\03\03. Lab\04. Reverse Array of Strings\obj\Debug\net5.0\04. Reverse Array of Strings.pdb
+D:\SU\#fund-csharp_05.2022\03\03. Lab\04. Reverse Array of Strings\obj\Debug\net5.0\04. Reverse Array of Strings.genruntimeconfig.cache

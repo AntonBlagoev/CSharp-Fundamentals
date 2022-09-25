@@ -1,0 +1,15 @@
+D:\SU\#fund-csharp_05.2022\01\01. Exercise\08. Triangle of Numbers\bin\Debug\net5.0\08. Triangle of Numbers.exe
+D:\SU\#fund-csharp_05.2022\01\01. Exercise\08. Triangle of Numbers\bin\Debug\net5.0\08. Triangle of Numbers.deps.json
+D:\SU\#fund-csharp_05.2022\01\01. Exercise\08. Triangle of Numbers\bin\Debug\net5.0\08. Triangle of Numbers.runtimeconfig.json
+D:\SU\#fund-csharp_05.2022\01\01. Exercise\08. Triangle of Numbers\bin\Debug\net5.0\08. Triangle of Numbers.runtimeconfig.dev.json
+D:\SU\#fund-csharp_05.2022\01\01. Exercise\08. Triangle of Numbers\bin\Debug\net5.0\08. Triangle of Numbers.dll
+D:\SU\#fund-csharp_05.2022\01\01. Exercise\08. Triangle of Numbers\bin\Debug\net5.0\ref\08. Triangle of Numbers.dll
+D:\SU\#fund-csharp_05.2022\01\01. Exercise\08. Triangle of Numbers\bin\Debug\net5.0\08. Triangle of Numbers.pdb
+D:\SU\#fund-csharp_05.2022\01\01. Exercise\08. Triangle of Numbers\obj\Debug\net5.0\08. Triangle of Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\SU\#fund-csharp_05.2022\01\01. Exercise\08. Triangle of Numbers\obj\Debug\net5.0\08. Triangle of Numbers.AssemblyInfoInputs.cache
+D:\SU\#fund-csharp_05.2022\01\01. Exercise\08. Triangle of Numbers\obj\Debug\net5.0\08. Triangle of Numbers.AssemblyInfo.cs
+D:\SU\#fund-csharp_05.2022\01\01. Exercise\08. Triangle of Numbers\obj\Debug\net5.0\08. Triangle of Numbers.csproj.CoreCompileInputs.cache
+D:\SU\#fund-csharp_05.2022\01\01. Exercise\08. Triangle of Numbers\obj\Debug\net5.0\08. Triangle of Numbers.dll
+D:\SU\#fund-csharp_05.2022\01\01. Exercise\08. Triangle of Numbers\obj\Debug\net5.0\ref\08. Triangle of Numbers.dll
+D:\SU\#fund-csharp_05.2022\01\01. Exercise\08. Triangle of Numbers\obj\Debug\net5.0\08. Triangle of Numbers.pdb
+D:\SU\#fund-csharp_05.2022\01\01. Exercise\08. Triangle of Numbers\obj\Debug\net5.0\08. Triangle of Numbers.genruntimeconfig.cache

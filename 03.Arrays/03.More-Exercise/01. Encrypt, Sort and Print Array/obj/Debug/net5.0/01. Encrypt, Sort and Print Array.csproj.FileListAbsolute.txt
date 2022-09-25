@@ -1,0 +1,16 @@
+D:\SU\#fund-csharp_05.2022\03\03. More-Exercise\01. Encrypt, Sort and Print Array\bin\Debug\net5.0\01. Encrypt, Sort and Print Array.exe
+D:\SU\#fund-csharp_05.2022\03\03. More-Exercise\01. Encrypt, Sort and Print Array\bin\Debug\net5.0\01. Encrypt, Sort and Print Array.deps.json
+D:\SU\#fund-csharp_05.2022\03\03. More-Exercise\01. Encrypt, Sort and Print Array\bin\Debug\net5.0\01. Encrypt, Sort and Print Array.runtimeconfig.json
+D:\SU\#fund-csharp_05.2022\03\03. More-Exercise\01. Encrypt, Sort and Print Array\bin\Debug\net5.0\01. Encrypt, Sort and Print Array.runtimeconfig.dev.json
+D:\SU\#fund-csharp_05.2022\03\03. More-Exercise\01. Encrypt, Sort and Print Array\bin\Debug\net5.0\01. Encrypt, Sort and Print Array.dll
+D:\SU\#fund-csharp_05.2022\03\03. More-Exercise\01. Encrypt, Sort and Print Array\bin\Debug\net5.0\ref\01. Encrypt, Sort and Print Array.dll
+D:\SU\#fund-csharp_05.2022\03\03. More-Exercise\01. Encrypt, Sort and Print Array\bin\Debug\net5.0\01. Encrypt, Sort and Print Array.pdb
+D:\SU\#fund-csharp_05.2022\03\03. More-Exercise\01. Encrypt, Sort and Print Array\obj\Debug\net5.0\01. Encrypt, Sort and Print Array.csproj.AssemblyReference.cache
+D:\SU\#fund-csharp_05.2022\03\03. More-Exercise\01. Encrypt, Sort and Print Array\obj\Debug\net5.0\01. Encrypt, Sort and Print Array.GeneratedMSBuildEditorConfig.editorconfig
+D:\SU\#fund-csharp_05.2022\03\03. More-Exercise\01. Encrypt, Sort and Print Array\obj\Debug\net5.0\01. Encrypt, Sort and Print Array.AssemblyInfoInputs.cache
+D:\SU\#fund-csharp_05.2022\03\03. More-Exercise\01. Encrypt, Sort and Print Array\obj\Debug\net5.0\01. Encrypt, Sort and Print Array.AssemblyInfo.cs
+D:\SU\#fund-csharp_05.2022\03\03. More-Exercise\01. Encrypt, Sort and Print Array\obj\Debug\net5.0\01. Encrypt, Sort and Print Array.csproj.CoreCompileInputs.cache
+D:\SU\#fund-csharp_05.2022\03\03. More-Exercise\01. Encrypt, Sort and Print Array\obj\Debug\net5.0\01. Encrypt, Sort and Print Array.dll
+D:\SU\#fund-csharp_05.2022\03\03. More-Exercise\01. Encrypt, Sort and Print Array\obj\Debug\net5.0\ref\01. Encrypt, Sort and Print Array.dll
+D:\SU\#fund-csharp_05.2022\03\03. More-Exercise\01. Encrypt, Sort and Print Array\obj\Debug\net5.0\01. Encrypt, Sort and Print Array.pdb
+D:\SU\#fund-csharp_05.2022\03\03. More-Exercise\01. Encrypt, Sort and Print Array\obj\Debug\net5.0\01. Encrypt, Sort and Print Array.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\SU\#fund-csharp_05.2022\04\04. More-Exercise\04. Tribonacci Sequence\bin\Debug\net5.0\04. Tribonacci Sequence.exe
+D:\SU\#fund-csharp_05.2022\04\04. More-Exercise\04. Tribonacci Sequence\bin\Debug\net5.0\04. Tribonacci Sequence.deps.json
+D:\SU\#fund-csharp_05.2022\04\04. More-Exercise\04. Tribonacci Sequence\bin\Debug\net5.0\04. Tribonacci Sequence.runtimeconfig.json
+D:\SU\#fund-csharp_05.2022\04\04. More-Exercise\04. Tribonacci Sequence\bin\Debug\net5.0\04. Tribonacci Sequence.runtimeconfig.dev.json
+D:\SU\#fund-csharp_05.2022\04\04. More-Exercise\04. Tribonacci Sequence\bin\Debug\net5.0\04. Tribonacci Sequence.dll
+D:\SU\#fund-csharp_05.2022\04\04. More-Exercise\04. Tribonacci Sequence\bin\Debug\net5.0\ref\04. Tribonacci Sequence.dll
+D:\SU\#fund-csharp_05.2022\04\04. More-Exercise\04. Tribonacci Sequence\bin\Debug\net5.0\04. Tribonacci Sequence.pdb
+D:\SU\#fund-csharp_05.2022\04\04. More-Exercise\04. Tribonacci Sequence\obj\Debug\net5.0\04. Tribonacci Sequence.csproj.AssemblyReference.cache
+D:\SU\#fund-csharp_05.2022\04\04. More-Exercise\04. Tribonacci Sequence\obj\Debug\net5.0\04. Tribonacci Sequence.GeneratedMSBuildEditorConfig.editorconfig
+D:\SU\#fund-csharp_05.2022\04\04. More-Exercise\04. Tribonacci Sequence\obj\Debug\net5.0\04. Tribonacci Sequence.AssemblyInfoInputs.cache
+D:\SU\#fund-csharp_05.2022\04\04. More-Exercise\04. Tribonacci Sequence\obj\Debug\net5.0\04. Tribonacci Sequence.AssemblyInfo.cs
+D:\SU\#fund-csharp_05.2022\04\04. More-Exercise\04. Tribonacci Sequence\obj\Debug\net5.0\04. Tribonacci Sequence.csproj.CoreCompileInputs.cache
+D:\SU\#fund-csharp_05.2022\04\04. More-Exercise\04. Tribonacci Sequence\obj\Debug\net5.0\04. Tribonacci Sequence.dll
+D:\SU\#fund-csharp_05.2022\04\04. More-Exercise\04. Tribonacci Sequence\obj\Debug\net5.0\ref\04. Tribonacci Sequence.dll
+D:\SU\#fund-csharp_05.2022\04\04. More-Exercise\04. Tribonacci Sequence\obj\Debug\net5.0\04. Tribonacci Sequence.pdb
+D:\SU\#fund-csharp_05.2022\04\04. More-Exercise\04. Tribonacci Sequence\obj\Debug\net5.0\04. Tribonacci Sequence.genruntimeconfig.cache

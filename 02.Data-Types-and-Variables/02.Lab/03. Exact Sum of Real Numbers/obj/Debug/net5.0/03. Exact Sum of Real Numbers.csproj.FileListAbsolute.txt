@@ -1,0 +1,16 @@
+D:\SU\#fund-csharp_05.2022\02\02. Lab\03. Exact Sum of Real Numbers\bin\Debug\net5.0\03. Exact Sum of Real Numbers.exe
+D:\SU\#fund-csharp_05.2022\02\02. Lab\03. Exact Sum of Real Numbers\bin\Debug\net5.0\03. Exact Sum of Real Numbers.deps.json
+D:\SU\#fund-csharp_05.2022\02\02. Lab\03. Exact Sum of Real Numbers\bin\Debug\net5.0\03. Exact Sum of Real Numbers.runtimeconfig.json
+D:\SU\#fund-csharp_05.2022\02\02. Lab\03. Exact Sum of Real Numbers\bin\Debug\net5.0\03. Exact Sum of Real Numbers.runtimeconfig.dev.json
+D:\SU\#fund-csharp_05.2022\02\02. Lab\03. Exact Sum of Real Numbers\bin\Debug\net5.0\03. Exact Sum of Real Numbers.dll
+D:\SU\#fund-csharp_05.2022\02\02. Lab\03. Exact Sum of Real Numbers\bin\Debug\net5.0\ref\03. Exact Sum of Real Numbers.dll
+D:\SU\#fund-csharp_05.2022\02\02. Lab\03. Exact Sum of Real Numbers\bin\Debug\net5.0\03. Exact Sum of Real Numbers.pdb
+D:\SU\#fund-csharp_05.2022\02\02. Lab\03. Exact Sum of Real Numbers\obj\Debug\net5.0\03. Exact Sum of Real Numbers.csproj.AssemblyReference.cache
+D:\SU\#fund-csharp_05.2022\02\02. Lab\03. Exact Sum of Real Numbers\obj\Debug\net5.0\03. Exact Sum of Real Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\SU\#fund-csharp_05.2022\02\02. Lab\03. Exact Sum of Real Numbers\obj\Debug\net5.0\03. Exact Sum of Real Numbers.AssemblyInfoInputs.cache
+D:\SU\#fund-csharp_05.2022\02\02. Lab\03. Exact Sum of Real Numbers\obj\Debug\net5.0\03. Exact Sum of Real Numbers.AssemblyInfo.cs
+D:\SU\#fund-csharp_05.2022\02\02. Lab\03. Exact Sum of Real Numbers\obj\Debug\net5.0\03. Exact Sum of Real Numbers.csproj.CoreCompileInputs.cache
+D:\SU\#fund-csharp_05.2022\02\02. Lab\03. Exact Sum of Real Numbers\obj\Debug\net5.0\03. Exact Sum of Real Numbers.dll
+D:\SU\#fund-csharp_05.2022\02\02. Lab\03. Exact Sum of Real Numbers\obj\Debug\net5.0\ref\03. Exact Sum of Real Numbers.dll
+D:\SU\#fund-csharp_05.2022\02\02. Lab\03. Exact Sum of Real Numbers\obj\Debug\net5.0\03. Exact Sum of Real Numbers.pdb
+D:\SU\#fund-csharp_05.2022\02\02. Lab\03. Exact Sum of Real Numbers\obj\Debug\net5.0\03. Exact Sum of Real Numbers.genruntimeconfig.cache

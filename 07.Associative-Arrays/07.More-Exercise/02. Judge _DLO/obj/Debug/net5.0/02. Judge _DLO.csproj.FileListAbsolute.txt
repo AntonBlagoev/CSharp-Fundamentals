@@ -1,0 +1,16 @@
+D:\SU\#fund-csharp_05.2022\07\07. More-Exercies\02. Judge _DLO\bin\Debug\net5.0\02. Judge _DLO.exe
+D:\SU\#fund-csharp_05.2022\07\07. More-Exercies\02. Judge _DLO\bin\Debug\net5.0\02. Judge _DLO.deps.json
+D:\SU\#fund-csharp_05.2022\07\07. More-Exercies\02. Judge _DLO\bin\Debug\net5.0\02. Judge _DLO.runtimeconfig.json
+D:\SU\#fund-csharp_05.2022\07\07. More-Exercies\02. Judge _DLO\bin\Debug\net5.0\02. Judge _DLO.runtimeconfig.dev.json
+D:\SU\#fund-csharp_05.2022\07\07. More-Exercies\02. Judge _DLO\bin\Debug\net5.0\02. Judge _DLO.dll
+D:\SU\#fund-csharp_05.2022\07\07. More-Exercies\02. Judge _DLO\bin\Debug\net5.0\ref\02. Judge _DLO.dll
+D:\SU\#fund-csharp_05.2022\07\07. More-Exercies\02. Judge _DLO\bin\Debug\net5.0\02. Judge _DLO.pdb
+D:\SU\#fund-csharp_05.2022\07\07. More-Exercies\02. Judge _DLO\obj\Debug\net5.0\02. Judge _DLO.csproj.AssemblyReference.cache
+D:\SU\#fund-csharp_05.2022\07\07. More-Exercies\02. Judge _DLO\obj\Debug\net5.0\02. Judge _DLO.GeneratedMSBuildEditorConfig.editorconfig
+D:\SU\#fund-csharp_05.2022\07\07. More-Exercies\02. Judge _DLO\obj\Debug\net5.0\02. Judge _DLO.AssemblyInfoInputs.cache
+D:\SU\#fund-csharp_05.2022\07\07. More-Exercies\02. Judge _DLO\obj\Debug\net5.0\02. Judge _DLO.AssemblyInfo.cs
+D:\SU\#fund-csharp_05.2022\07\07. More-Exercies\02. Judge _DLO\obj\Debug\net5.0\02. Judge _DLO.csproj.CoreCompileInputs.cache
+D:\SU\#fund-csharp_05.2022\07\07. More-Exercies\02. Judge _DLO\obj\Debug\net5.0\02. Judge _DLO.dll
+D:\SU\#fund-csharp_05.2022\07\07. More-Exercies\02. Judge _DLO\obj\Debug\net5.0\ref\02. Judge _DLO.dll
+D:\SU\#fund-csharp_05.2022\07\07. More-Exercies\02. Judge _DLO\obj\Debug\net5.0\02. Judge _DLO.pdb
+D:\SU\#fund-csharp_05.2022\07\07. More-Exercies\02. Judge _DLO\obj\Debug\net5.0\02. Judge _DLO.genruntimeconfig.cache

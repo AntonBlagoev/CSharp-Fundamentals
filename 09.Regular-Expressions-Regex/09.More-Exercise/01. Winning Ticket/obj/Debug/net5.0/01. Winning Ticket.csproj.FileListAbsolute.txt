@@ -1,0 +1,16 @@
+D:\SU\#fund-csharp_05.2022\09\09. More-Exercies\01. Winning Ticket\bin\Debug\net5.0\01. Winning Ticket.exe
+D:\SU\#fund-csharp_05.2022\09\09. More-Exercies\01. Winning Ticket\bin\Debug\net5.0\01. Winning Ticket.deps.json
+D:\SU\#fund-csharp_05.2022\09\09. More-Exercies\01. Winning Ticket\bin\Debug\net5.0\01. Winning Ticket.runtimeconfig.json
+D:\SU\#fund-csharp_05.2022\09\09. More-Exercies\01. Winning Ticket\bin\Debug\net5.0\01. Winning Ticket.runtimeconfig.dev.json
+D:\SU\#fund-csharp_05.2022\09\09. More-Exercies\01. Winning Ticket\bin\Debug\net5.0\01. Winning Ticket.dll
+D:\SU\#fund-csharp_05.2022\09\09. More-Exercies\01. Winning Ticket\bin\Debug\net5.0\ref\01. Winning Ticket.dll
+D:\SU\#fund-csharp_05.2022\09\09. More-Exercies\01. Winning Ticket\bin\Debug\net5.0\01. Winning Ticket.pdb
+D:\SU\#fund-csharp_05.2022\09\09. More-Exercies\01. Winning Ticket\obj\Debug\net5.0\01. Winning Ticket.csproj.AssemblyReference.cache
+D:\SU\#fund-csharp_05.2022\09\09. More-Exercies\01. Winning Ticket\obj\Debug\net5.0\01. Winning Ticket.GeneratedMSBuildEditorConfig.editorconfig
+D:\SU\#fund-csharp_05.2022\09\09. More-Exercies\01. Winning Ticket\obj\Debug\net5.0\01. Winning Ticket.AssemblyInfoInputs.cache
+D:\SU\#fund-csharp_05.2022\09\09. More-Exercies\01. Winning Ticket\obj\Debug\net5.0\01. Winning Ticket.AssemblyInfo.cs
+D:\SU\#fund-csharp_05.2022\09\09. More-Exercies\01. Winning Ticket\obj\Debug\net5.0\01. Winning Ticket.csproj.CoreCompileInputs.cache
+D:\SU\#fund-csharp_05.2022\09\09. More-Exercies\01. Winning Ticket\obj\Debug\net5.0\01. Winning Ticket.dll
+D:\SU\#fund-csharp_05.2022\09\09. More-Exercies\01. Winning Ticket\obj\Debug\net5.0\ref\01. Winning Ticket.dll
+D:\SU\#fund-csharp_05.2022\09\09. More-Exercies\01. Winning Ticket\obj\Debug\net5.0\01. Winning Ticket.pdb
+D:\SU\#fund-csharp_05.2022\09\09. More-Exercies\01. Winning Ticket\obj\Debug\net5.0\01. Winning Ticket.genruntimeconfig.cache

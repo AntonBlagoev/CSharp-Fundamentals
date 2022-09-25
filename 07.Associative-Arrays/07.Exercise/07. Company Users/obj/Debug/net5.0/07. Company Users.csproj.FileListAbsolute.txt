@@ -1,0 +1,16 @@
+D:\SU\#fund-csharp_05.2022\07\07. Exercies\07. Company Users\bin\Debug\net5.0\07. Company Users.exe
+D:\SU\#fund-csharp_05.2022\07\07. Exercies\07. Company Users\bin\Debug\net5.0\07. Company Users.deps.json
+D:\SU\#fund-csharp_05.2022\07\07. Exercies\07. Company Users\bin\Debug\net5.0\07. Company Users.runtimeconfig.json
+D:\SU\#fund-csharp_05.2022\07\07. Exercies\07. Company Users\bin\Debug\net5.0\07. Company Users.runtimeconfig.dev.json
+D:\SU\#fund-csharp_05.2022\07\07. Exercies\07. Company Users\bin\Debug\net5.0\07. Company Users.dll
+D:\SU\#fund-csharp_05.2022\07\07. Exercies\07. Company Users\bin\Debug\net5.0\ref\07. Company Users.dll
+D:\SU\#fund-csharp_05.2022\07\07. Exercies\07. Company Users\bin\Debug\net5.0\07. Company Users.pdb
+D:\SU\#fund-csharp_05.2022\07\07. Exercies\07. Company Users\obj\Debug\net5.0\07. Company Users.GeneratedMSBuildEditorConfig.editorconfig
+D:\SU\#fund-csharp_05.2022\07\07. Exercies\07. Company Users\obj\Debug\net5.0\07. Company Users.AssemblyInfoInputs.cache
+D:\SU\#fund-csharp_05.2022\07\07. Exercies\07. Company Users\obj\Debug\net5.0\07. Company Users.AssemblyInfo.cs
+D:\SU\#fund-csharp_05.2022\07\07. Exercies\07. Company Users\obj\Debug\net5.0\07. Company Users.csproj.CoreCompileInputs.cache
+D:\SU\#fund-csharp_05.2022\07\07. Exercies\07. Company Users\obj\Debug\net5.0\07. Company Users.dll
+D:\SU\#fund-csharp_05.2022\07\07. Exercies\07. Company Users\obj\Debug\net5.0\ref\07. Company Users.dll
+D:\SU\#fund-csharp_05.2022\07\07. Exercies\07. Company Users\obj\Debug\net5.0\07. Company Users.pdb
+D:\SU\#fund-csharp_05.2022\07\07. Exercies\07. Company Users\obj\Debug\net5.0\07. Company Users.genruntimeconfig.cache
+D:\SU\#fund-csharp_05.2022\07\07. Exercies\07. Company Users\obj\Debug\net5.0\07. Company Users.csproj.AssemblyReference.cache

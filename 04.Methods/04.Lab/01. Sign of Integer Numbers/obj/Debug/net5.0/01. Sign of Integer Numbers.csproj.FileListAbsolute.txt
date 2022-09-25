@@ -1,0 +1,16 @@
+D:\SU\#fund-csharp_05.2022\04\03. Lab\01. Sign of Integer Numbers\bin\Debug\net5.0\01. Sign of Integer Numbers.exe
+D:\SU\#fund-csharp_05.2022\04\03. Lab\01. Sign of Integer Numbers\bin\Debug\net5.0\01. Sign of Integer Numbers.deps.json
+D:\SU\#fund-csharp_05.2022\04\03. Lab\01. Sign of Integer Numbers\bin\Debug\net5.0\01. Sign of Integer Numbers.runtimeconfig.json
+D:\SU\#fund-csharp_05.2022\04\03. Lab\01. Sign of Integer Numbers\bin\Debug\net5.0\01. Sign of Integer Numbers.runtimeconfig.dev.json
+D:\SU\#fund-csharp_05.2022\04\03. Lab\01. Sign of Integer Numbers\bin\Debug\net5.0\01. Sign of Integer Numbers.dll
+D:\SU\#fund-csharp_05.2022\04\03. Lab\01. Sign of Integer Numbers\bin\Debug\net5.0\ref\01. Sign of Integer Numbers.dll
+D:\SU\#fund-csharp_05.2022\04\03. Lab\01. Sign of Integer Numbers\bin\Debug\net5.0\01. Sign of Integer Numbers.pdb
+D:\SU\#fund-csharp_05.2022\04\03. Lab\01. Sign of Integer Numbers\obj\Debug\net5.0\01. Sign of Integer Numbers.csproj.AssemblyReference.cache
+D:\SU\#fund-csharp_05.2022\04\03. Lab\01. Sign of Integer Numbers\obj\Debug\net5.0\01. Sign of Integer Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\SU\#fund-csharp_05.2022\04\03. Lab\01. Sign of Integer Numbers\obj\Debug\net5.0\01. Sign of Integer Numbers.AssemblyInfoInputs.cache
+D:\SU\#fund-csharp_05.2022\04\03. Lab\01. Sign of Integer Numbers\obj\Debug\net5.0\01. Sign of Integer Numbers.AssemblyInfo.cs
+D:\SU\#fund-csharp_05.2022\04\03. Lab\01. Sign of Integer Numbers\obj\Debug\net5.0\01. Sign of Integer Numbers.csproj.CoreCompileInputs.cache
+D:\SU\#fund-csharp_05.2022\04\03. Lab\01. Sign of Integer Numbers\obj\Debug\net5.0\01. Sign of Integer Numbers.dll
+D:\SU\#fund-csharp_05.2022\04\03. Lab\01. Sign of Integer Numbers\obj\Debug\net5.0\ref\01. Sign of Integer Numbers.dll
+D:\SU\#fund-csharp_05.2022\04\03. Lab\01. Sign of Integer Numbers\obj\Debug\net5.0\01. Sign of Integer Numbers.pdb
+D:\SU\#fund-csharp_05.2022\04\03. Lab\01. Sign of Integer Numbers\obj\Debug\net5.0\01. Sign of Integer Numbers.genruntimeconfig.cache

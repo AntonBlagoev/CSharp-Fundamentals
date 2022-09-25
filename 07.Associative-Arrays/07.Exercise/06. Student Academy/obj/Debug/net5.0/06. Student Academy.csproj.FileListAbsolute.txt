@@ -1,0 +1,16 @@
+D:\SU\#fund-csharp_05.2022\07\07. Exercies\06. Student Academy\bin\Debug\net5.0\06. Student Academy.exe
+D:\SU\#fund-csharp_05.2022\07\07. Exercies\06. Student Academy\bin\Debug\net5.0\06. Student Academy.deps.json
+D:\SU\#fund-csharp_05.2022\07\07. Exercies\06. Student Academy\bin\Debug\net5.0\06. Student Academy.runtimeconfig.json
+D:\SU\#fund-csharp_05.2022\07\07. Exercies\06. Student Academy\bin\Debug\net5.0\06. Student Academy.runtimeconfig.dev.json
+D:\SU\#fund-csharp_05.2022\07\07. Exercies\06. Student Academy\bin\Debug\net5.0\06. Student Academy.dll
+D:\SU\#fund-csharp_05.2022\07\07. Exercies\06. Student Academy\bin\Debug\net5.0\ref\06. Student Academy.dll
+D:\SU\#fund-csharp_05.2022\07\07. Exercies\06. Student Academy\bin\Debug\net5.0\06. Student Academy.pdb
+D:\SU\#fund-csharp_05.2022\07\07. Exercies\06. Student Academy\obj\Debug\net5.0\06. Student Academy.csproj.AssemblyReference.cache
+D:\SU\#fund-csharp_05.2022\07\07. Exercies\06. Student Academy\obj\Debug\net5.0\06. Student Academy.GeneratedMSBuildEditorConfig.editorconfig
+D:\SU\#fund-csharp_05.2022\07\07. Exercies\06. Student Academy\obj\Debug\net5.0\06. Student Academy.AssemblyInfoInputs.cache
+D:\SU\#fund-csharp_05.2022\07\07. Exercies\06. Student Academy\obj\Debug\net5.0\06. Student Academy.AssemblyInfo.cs
+D:\SU\#fund-csharp_05.2022\07\07. Exercies\06. Student Academy\obj\Debug\net5.0\06. Student Academy.csproj.CoreCompileInputs.cache
+D:\SU\#fund-csharp_05.2022\07\07. Exercies\06. Student Academy\obj\Debug\net5.0\06. Student Academy.dll
+D:\SU\#fund-csharp_05.2022\07\07. Exercies\06. Student Academy\obj\Debug\net5.0\ref\06. Student Academy.dll
+D:\SU\#fund-csharp_05.2022\07\07. Exercies\06. Student Academy\obj\Debug\net5.0\06. Student Academy.pdb
+D:\SU\#fund-csharp_05.2022\07\07. Exercies\06. Student Academy\obj\Debug\net5.0\06. Student Academy.genruntimeconfig.cache

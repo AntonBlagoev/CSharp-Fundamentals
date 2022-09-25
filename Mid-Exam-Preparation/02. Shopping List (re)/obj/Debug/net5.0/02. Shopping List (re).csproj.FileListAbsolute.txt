@@ -1,0 +1,16 @@
+D:\SU\#fund-csharp_05.2022\04\Mid-Exam\02. Shopping List (re)\bin\Debug\net5.0\02. Shopping List (re).exe
+D:\SU\#fund-csharp_05.2022\04\Mid-Exam\02. Shopping List (re)\bin\Debug\net5.0\02. Shopping List (re).deps.json
+D:\SU\#fund-csharp_05.2022\04\Mid-Exam\02. Shopping List (re)\bin\Debug\net5.0\02. Shopping List (re).runtimeconfig.json
+D:\SU\#fund-csharp_05.2022\04\Mid-Exam\02. Shopping List (re)\bin\Debug\net5.0\02. Shopping List (re).runtimeconfig.dev.json
+D:\SU\#fund-csharp_05.2022\04\Mid-Exam\02. Shopping List (re)\bin\Debug\net5.0\02. Shopping List (re).dll
+D:\SU\#fund-csharp_05.2022\04\Mid-Exam\02. Shopping List (re)\bin\Debug\net5.0\ref\02. Shopping List (re).dll
+D:\SU\#fund-csharp_05.2022\04\Mid-Exam\02. Shopping List (re)\bin\Debug\net5.0\02. Shopping List (re).pdb
+D:\SU\#fund-csharp_05.2022\04\Mid-Exam\02. Shopping List (re)\obj\Debug\net5.0\02. Shopping List (re).csproj.AssemblyReference.cache
+D:\SU\#fund-csharp_05.2022\04\Mid-Exam\02. Shopping List (re)\obj\Debug\net5.0\02. Shopping List (re).GeneratedMSBuildEditorConfig.editorconfig
+D:\SU\#fund-csharp_05.2022\04\Mid-Exam\02. Shopping List (re)\obj\Debug\net5.0\02. Shopping List (re).AssemblyInfoInputs.cache
+D:\SU\#fund-csharp_05.2022\04\Mid-Exam\02. Shopping List (re)\obj\Debug\net5.0\02. Shopping List (re).AssemblyInfo.cs
+D:\SU\#fund-csharp_05.2022\04\Mid-Exam\02. Shopping List (re)\obj\Debug\net5.0\02. Shopping List (re).csproj.CoreCompileInputs.cache
+D:\SU\#fund-csharp_05.2022\04\Mid-Exam\02. Shopping List (re)\obj\Debug\net5.0\02. Shopping List (re).dll
+D:\SU\#fund-csharp_05.2022\04\Mid-Exam\02. Shopping List (re)\obj\Debug\net5.0\ref\02. Shopping List (re).dll
+D:\SU\#fund-csharp_05.2022\04\Mid-Exam\02. Shopping List (re)\obj\Debug\net5.0\02. Shopping List (re).pdb
+D:\SU\#fund-csharp_05.2022\04\Mid-Exam\02. Shopping List (re)\obj\Debug\net5.0\02. Shopping List (re).genruntimeconfig.cache

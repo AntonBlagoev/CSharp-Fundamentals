@@ -1,0 +1,16 @@
+D:\SU\#fund-csharp_05.2022\04\Mid-Exam\01. Black Flag\bin\Debug\net5.0\01. Black Flag.exe
+D:\SU\#fund-csharp_05.2022\04\Mid-Exam\01. Black Flag\bin\Debug\net5.0\01. Black Flag.deps.json
+D:\SU\#fund-csharp_05.2022\04\Mid-Exam\01. Black Flag\bin\Debug\net5.0\01. Black Flag.runtimeconfig.json
+D:\SU\#fund-csharp_05.2022\04\Mid-Exam\01. Black Flag\bin\Debug\net5.0\01. Black Flag.runtimeconfig.dev.json
+D:\SU\#fund-csharp_05.2022\04\Mid-Exam\01. Black Flag\bin\Debug\net5.0\01. Black Flag.dll
+D:\SU\#fund-csharp_05.2022\04\Mid-Exam\01. Black Flag\bin\Debug\net5.0\ref\01. Black Flag.dll
+D:\SU\#fund-csharp_05.2022\04\Mid-Exam\01. Black Flag\bin\Debug\net5.0\01. Black Flag.pdb
+D:\SU\#fund-csharp_05.2022\04\Mid-Exam\01. Black Flag\obj\Debug\net5.0\01. Black Flag.csproj.AssemblyReference.cache
+D:\SU\#fund-csharp_05.2022\04\Mid-Exam\01. Black Flag\obj\Debug\net5.0\01. Black Flag.GeneratedMSBuildEditorConfig.editorconfig
+D:\SU\#fund-csharp_05.2022\04\Mid-Exam\01. Black Flag\obj\Debug\net5.0\01. Black Flag.AssemblyInfoInputs.cache
+D:\SU\#fund-csharp_05.2022\04\Mid-Exam\01. Black Flag\obj\Debug\net5.0\01. Black Flag.AssemblyInfo.cs
+D:\SU\#fund-csharp_05.2022\04\Mid-Exam\01. Black Flag\obj\Debug\net5.0\01. Black Flag.csproj.CoreCompileInputs.cache
+D:\SU\#fund-csharp_05.2022\04\Mid-Exam\01. Black Flag\obj\Debug\net5.0\01. Black Flag.dll
+D:\SU\#fund-csharp_05.2022\04\Mid-Exam\01. Black Flag\obj\Debug\net5.0\ref\01. Black Flag.dll
+D:\SU\#fund-csharp_05.2022\04\Mid-Exam\01. Black Flag\obj\Debug\net5.0\01. Black Flag.pdb
+D:\SU\#fund-csharp_05.2022\04\Mid-Exam\01. Black Flag\obj\Debug\net5.0\01. Black Flag.genruntimeconfig.cache

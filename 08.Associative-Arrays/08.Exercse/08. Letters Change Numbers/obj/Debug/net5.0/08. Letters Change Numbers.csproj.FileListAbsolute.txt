@@ -1,0 +1,16 @@
+D:\SU\#fund-csharp_05.2022\08\08. Exercies\08. Letters Change Numbers\bin\Debug\net5.0\08. Letters Change Numbers.exe
+D:\SU\#fund-csharp_05.2022\08\08. Exercies\08. Letters Change Numbers\bin\Debug\net5.0\08. Letters Change Numbers.deps.json
+D:\SU\#fund-csharp_05.2022\08\08. Exercies\08. Letters Change Numbers\bin\Debug\net5.0\08. Letters Change Numbers.runtimeconfig.json
+D:\SU\#fund-csharp_05.2022\08\08. Exercies\08. Letters Change Numbers\bin\Debug\net5.0\08. Letters Change Numbers.runtimeconfig.dev.json
+D:\SU\#fund-csharp_05.2022\08\08. Exercies\08. Letters Change Numbers\bin\Debug\net5.0\08. Letters Change Numbers.dll
+D:\SU\#fund-csharp_05.2022\08\08. Exercies\08. Letters Change Numbers\bin\Debug\net5.0\ref\08. Letters Change Numbers.dll
+D:\SU\#fund-csharp_05.2022\08\08. Exercies\08. Letters Change Numbers\bin\Debug\net5.0\08. Letters Change Numbers.pdb
+D:\SU\#fund-csharp_05.2022\08\08. Exercies\08. Letters Change Numbers\obj\Debug\net5.0\08. Letters Change Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\SU\#fund-csharp_05.2022\08\08. Exercies\08. Letters Change Numbers\obj\Debug\net5.0\08. Letters Change Numbers.AssemblyInfoInputs.cache
+D:\SU\#fund-csharp_05.2022\08\08. Exercies\08. Letters Change Numbers\obj\Debug\net5.0\08. Letters Change Numbers.AssemblyInfo.cs
+D:\SU\#fund-csharp_05.2022\08\08. Exercies\08. Letters Change Numbers\obj\Debug\net5.0\08. Letters Change Numbers.csproj.CoreCompileInputs.cache
+D:\SU\#fund-csharp_05.2022\08\08. Exercies\08. Letters Change Numbers\obj\Debug\net5.0\08. Letters Change Numbers.dll
+D:\SU\#fund-csharp_05.2022\08\08. Exercies\08. Letters Change Numbers\obj\Debug\net5.0\ref\08. Letters Change Numbers.dll
+D:\SU\#fund-csharp_05.2022\08\08. Exercies\08. Letters Change Numbers\obj\Debug\net5.0\08. Letters Change Numbers.pdb
+D:\SU\#fund-csharp_05.2022\08\08. Exercies\08. Letters Change Numbers\obj\Debug\net5.0\08. Letters Change Numbers.genruntimeconfig.cache
+D:\SU\#fund-csharp_05.2022\08\08. Exercies\08. Letters Change Numbers\obj\Debug\net5.0\08. Letters Change Numbers.csproj.AssemblyReference.cache

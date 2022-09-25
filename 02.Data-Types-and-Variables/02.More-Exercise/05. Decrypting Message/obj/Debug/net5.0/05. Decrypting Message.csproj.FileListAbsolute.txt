@@ -1,0 +1,15 @@
+D:\SU\#fund-csharp_05.2022\02\01. More-Exercise\05. Decrypting Message\bin\Debug\net5.0\05. Decrypting Message.exe
+D:\SU\#fund-csharp_05.2022\02\01. More-Exercise\05. Decrypting Message\bin\Debug\net5.0\05. Decrypting Message.deps.json
+D:\SU\#fund-csharp_05.2022\02\01. More-Exercise\05. Decrypting Message\bin\Debug\net5.0\05. Decrypting Message.runtimeconfig.json
+D:\SU\#fund-csharp_05.2022\02\01. More-Exercise\05. Decrypting Message\bin\Debug\net5.0\05. Decrypting Message.runtimeconfig.dev.json
+D:\SU\#fund-csharp_05.2022\02\01. More-Exercise\05. Decrypting Message\bin\Debug\net5.0\05. Decrypting Message.dll
+D:\SU\#fund-csharp_05.2022\02\01. More-Exercise\05. Decrypting Message\bin\Debug\net5.0\ref\05. Decrypting Message.dll
+D:\SU\#fund-csharp_05.2022\02\01. More-Exercise\05. Decrypting Message\bin\Debug\net5.0\05. Decrypting Message.pdb
+D:\SU\#fund-csharp_05.2022\02\01. More-Exercise\05. Decrypting Message\obj\Debug\net5.0\05. Decrypting Message.GeneratedMSBuildEditorConfig.editorconfig
+D:\SU\#fund-csharp_05.2022\02\01. More-Exercise\05. Decrypting Message\obj\Debug\net5.0\05. Decrypting Message.AssemblyInfoInputs.cache
+D:\SU\#fund-csharp_05.2022\02\01. More-Exercise\05. Decrypting Message\obj\Debug\net5.0\05. Decrypting Message.AssemblyInfo.cs
+D:\SU\#fund-csharp_05.2022\02\01. More-Exercise\05. Decrypting Message\obj\Debug\net5.0\05. Decrypting Message.csproj.CoreCompileInputs.cache
+D:\SU\#fund-csharp_05.2022\02\01. More-Exercise\05. Decrypting Message\obj\Debug\net5.0\05. Decrypting Message.dll
+D:\SU\#fund-csharp_05.2022\02\01. More-Exercise\05. Decrypting Message\obj\Debug\net5.0\ref\05. Decrypting Message.dll
+D:\SU\#fund-csharp_05.2022\02\01. More-Exercise\05. Decrypting Message\obj\Debug\net5.0\05. Decrypting Message.pdb
+D:\SU\#fund-csharp_05.2022\02\01. More-Exercise\05. Decrypting Message\obj\Debug\net5.0\05. Decrypting Message.genruntimeconfig.cache

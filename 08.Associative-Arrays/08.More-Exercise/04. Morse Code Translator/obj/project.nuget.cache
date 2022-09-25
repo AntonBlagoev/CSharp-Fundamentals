@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "loWSA6tIh+O3nYN6hXaZLomsI9ar+5gvT1JMMy4V72De3K3w1nu3cednR/yLcxnLKuSOijIsRASi6RF0AkOeFA==",
+  "success": true,
+  "projectFilePath": "D:\\SU\\CSharp-Fundamentals\\08.Associative-Arrays\\08.More-Exercise\\04. Morse Code Translator\\04. Morse Code Translator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\anton\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\anton\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\anton\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
+    "C:\\Users\\anton\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}

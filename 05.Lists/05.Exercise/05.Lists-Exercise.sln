@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. Train", "01. Train\01. Train.csproj", "{C61B00F6-4501-4AFF-84CE-776E2FB76FC4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02. Change List", "02. Change List\02. Change List.csproj", "{FDC91B70-8953-4E59-B3BA-9C5684F8A8A3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03. House Party", "03. House Party\03. House Party.csproj", "{C7C74E72-091B-47AB-9557-F7EC085E343A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04. List Operations", "04. List Operations\04. List Operations.csproj", "{42D4CE74-A984-4D23-B469-ABD91EF46206}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05. Bomb Numbers", "05. Bomb Numbers\05. Bomb Numbers.csproj", "{0ECA4021-A832-42A4-BEA3-CD6260FD729E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06. Cards Game", "06. Cards Game\06. Cards Game.csproj", "{563A294F-7078-4CBB-A317-2AC4044EBF16}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07. Append Arrays", "07. Append Arrays\07. Append Arrays.csproj", "{93A8B18C-17BA-4FEE-BB43-6FB7498938C4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C61B00F6-4501-4AFF-84CE-776E2FB76FC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C61B00F6-4501-4AFF-84CE-776E2FB76FC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C61B00F6-4501-4AFF-84CE-776E2FB76FC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C61B00F6-4501-4AFF-84CE-776E2FB76FC4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDC91B70-8953-4E59-B3BA-9C5684F8A8A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDC91B70-8953-4E59-B3BA-9C5684F8A8A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDC91B70-8953-4E59-B3BA-9C5684F8A8A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDC91B70-8953-4E59-B3BA-9C5684F8A8A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7C74E72-091B-47AB-9557-F7EC085E343A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7C74E72-091B-47AB-9557-F7EC085E343A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7C74E72-091B-47AB-9557-F7EC085E343A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7C74E72-091B-47AB-9557-F7EC085E343A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42D4CE74-A984-4D23-B469-ABD91EF46206}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42D4CE74-A984-4D23-B469-ABD91EF46206}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42D4CE74-A984-4D23-B469-ABD91EF46206}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42D4CE74-A984-4D23-B469-ABD91EF46206}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0ECA4021-A832-42A4-BEA3-CD6260FD729E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0ECA4021-A832-42A4-BEA3-CD6260FD729E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0ECA4021-A832-42A4-BEA3-CD6260FD729E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0ECA4021-A832-42A4-BEA3-CD6260FD729E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{563A294F-7078-4CBB-A317-2AC4044EBF16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{563A294F-7078-4CBB-A317-2AC4044EBF16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{563A294F-7078-4CBB-A317-2AC4044EBF16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{563A294F-7078-4CBB-A317-2AC4044EBF16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93A8B18C-17BA-4FEE-BB43-6FB7498938C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93A8B18C-17BA-4FEE-BB43-6FB7498938C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93A8B18C-17BA-4FEE-BB43-6FB7498938C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93A8B18C-17BA-4FEE-BB43-6FB7498938C4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {96540576-A265-4A11-986F-45A0829D8648}
+	EndGlobalSection
+EndGlobal

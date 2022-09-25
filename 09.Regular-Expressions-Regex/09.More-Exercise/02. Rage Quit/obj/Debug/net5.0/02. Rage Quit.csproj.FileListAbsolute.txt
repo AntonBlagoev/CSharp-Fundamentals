@@ -1,0 +1,16 @@
+D:\SU\#fund-csharp_05.2022\09\09. More-Exercies\02. Rage Quit\bin\Debug\net5.0\02. Rage Quit.exe
+D:\SU\#fund-csharp_05.2022\09\09. More-Exercies\02. Rage Quit\bin\Debug\net5.0\02. Rage Quit.deps.json
+D:\SU\#fund-csharp_05.2022\09\09. More-Exercies\02. Rage Quit\bin\Debug\net5.0\02. Rage Quit.runtimeconfig.json
+D:\SU\#fund-csharp_05.2022\09\09. More-Exercies\02. Rage Quit\bin\Debug\net5.0\02. Rage Quit.runtimeconfig.dev.json
+D:\SU\#fund-csharp_05.2022\09\09. More-Exercies\02. Rage Quit\bin\Debug\net5.0\02. Rage Quit.dll
+D:\SU\#fund-csharp_05.2022\09\09. More-Exercies\02. Rage Quit\bin\Debug\net5.0\ref\02. Rage Quit.dll
+D:\SU\#fund-csharp_05.2022\09\09. More-Exercies\02. Rage Quit\bin\Debug\net5.0\02. Rage Quit.pdb
+D:\SU\#fund-csharp_05.2022\09\09. More-Exercies\02. Rage Quit\obj\Debug\net5.0\02. Rage Quit.csproj.AssemblyReference.cache
+D:\SU\#fund-csharp_05.2022\09\09. More-Exercies\02. Rage Quit\obj\Debug\net5.0\02. Rage Quit.GeneratedMSBuildEditorConfig.editorconfig
+D:\SU\#fund-csharp_05.2022\09\09. More-Exercies\02. Rage Quit\obj\Debug\net5.0\02. Rage Quit.AssemblyInfoInputs.cache
+D:\SU\#fund-csharp_05.2022\09\09. More-Exercies\02. Rage Quit\obj\Debug\net5.0\02. Rage Quit.AssemblyInfo.cs
+D:\SU\#fund-csharp_05.2022\09\09. More-Exercies\02. Rage Quit\obj\Debug\net5.0\02. Rage Quit.csproj.CoreCompileInputs.cache
+D:\SU\#fund-csharp_05.2022\09\09. More-Exercies\02. Rage Quit\obj\Debug\net5.0\02. Rage Quit.dll
+D:\SU\#fund-csharp_05.2022\09\09. More-Exercies\02. Rage Quit\obj\Debug\net5.0\ref\02. Rage Quit.dll
+D:\SU\#fund-csharp_05.2022\09\09. More-Exercies\02. Rage Quit\obj\Debug\net5.0\02. Rage Quit.pdb
+D:\SU\#fund-csharp_05.2022\09\09. More-Exercies\02. Rage Quit\obj\Debug\net5.0\02. Rage Quit.genruntimeconfig.cache

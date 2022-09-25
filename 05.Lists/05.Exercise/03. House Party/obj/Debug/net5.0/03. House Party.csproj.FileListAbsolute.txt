@@ -1,0 +1,16 @@
+D:\SU\#fund-csharp_05.2022\04\05. Exercise\03. House Party\bin\Debug\net5.0\03. House Party.exe
+D:\SU\#fund-csharp_05.2022\04\05. Exercise\03. House Party\bin\Debug\net5.0\03. House Party.deps.json
+D:\SU\#fund-csharp_05.2022\04\05. Exercise\03. House Party\bin\Debug\net5.0\03. House Party.runtimeconfig.json
+D:\SU\#fund-csharp_05.2022\04\05. Exercise\03. House Party\bin\Debug\net5.0\03. House Party.runtimeconfig.dev.json
+D:\SU\#fund-csharp_05.2022\04\05. Exercise\03. House Party\bin\Debug\net5.0\03. House Party.dll
+D:\SU\#fund-csharp_05.2022\04\05. Exercise\03. House Party\bin\Debug\net5.0\ref\03. House Party.dll
+D:\SU\#fund-csharp_05.2022\04\05. Exercise\03. House Party\bin\Debug\net5.0\03. House Party.pdb
+D:\SU\#fund-csharp_05.2022\04\05. Exercise\03. House Party\obj\Debug\net5.0\03. House Party.csproj.AssemblyReference.cache
+D:\SU\#fund-csharp_05.2022\04\05. Exercise\03. House Party\obj\Debug\net5.0\03. House Party.GeneratedMSBuildEditorConfig.editorconfig
+D:\SU\#fund-csharp_05.2022\04\05. Exercise\03. House Party\obj\Debug\net5.0\03. House Party.AssemblyInfoInputs.cache
+D:\SU\#fund-csharp_05.2022\04\05. Exercise\03. House Party\obj\Debug\net5.0\03. House Party.AssemblyInfo.cs
+D:\SU\#fund-csharp_05.2022\04\05. Exercise\03. House Party\obj\Debug\net5.0\03. House Party.csproj.CoreCompileInputs.cache
+D:\SU\#fund-csharp_05.2022\04\05. Exercise\03. House Party\obj\Debug\net5.0\03. House Party.dll
+D:\SU\#fund-csharp_05.2022\04\05. Exercise\03. House Party\obj\Debug\net5.0\ref\03. House Party.dll
+D:\SU\#fund-csharp_05.2022\04\05. Exercise\03. House Party\obj\Debug\net5.0\03. House Party.pdb
+D:\SU\#fund-csharp_05.2022\04\05. Exercise\03. House Party\obj\Debug\net5.0\03. House Party.genruntimeconfig.cache

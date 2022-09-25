@@ -1,0 +1,15 @@
+D:\SU\#fund-csharp_05.2022\01\01. Basic Syntax, Conditional Statements and Loops\05. Month Printer\bin\Debug\net5.0\05. Month Printer.exe
+D:\SU\#fund-csharp_05.2022\01\01. Basic Syntax, Conditional Statements and Loops\05. Month Printer\bin\Debug\net5.0\05. Month Printer.deps.json
+D:\SU\#fund-csharp_05.2022\01\01. Basic Syntax, Conditional Statements and Loops\05. Month Printer\bin\Debug\net5.0\05. Month Printer.runtimeconfig.json
+D:\SU\#fund-csharp_05.2022\01\01. Basic Syntax, Conditional Statements and Loops\05. Month Printer\bin\Debug\net5.0\05. Month Printer.runtimeconfig.dev.json
+D:\SU\#fund-csharp_05.2022\01\01. Basic Syntax, Conditional Statements and Loops\05. Month Printer\bin\Debug\net5.0\05. Month Printer.dll
+D:\SU\#fund-csharp_05.2022\01\01. Basic Syntax, Conditional Statements and Loops\05. Month Printer\bin\Debug\net5.0\ref\05. Month Printer.dll
+D:\SU\#fund-csharp_05.2022\01\01. Basic Syntax, Conditional Statements and Loops\05. Month Printer\bin\Debug\net5.0\05. Month Printer.pdb
+D:\SU\#fund-csharp_05.2022\01\01. Basic Syntax, Conditional Statements and Loops\05. Month Printer\obj\Debug\net5.0\05. Month Printer.GeneratedMSBuildEditorConfig.editorconfig
+D:\SU\#fund-csharp_05.2022\01\01. Basic Syntax, Conditional Statements and Loops\05. Month Printer\obj\Debug\net5.0\05. Month Printer.AssemblyInfoInputs.cache
+D:\SU\#fund-csharp_05.2022\01\01. Basic Syntax, Conditional Statements and Loops\05. Month Printer\obj\Debug\net5.0\05. Month Printer.AssemblyInfo.cs
+D:\SU\#fund-csharp_05.2022\01\01. Basic Syntax, Conditional Statements and Loops\05. Month Printer\obj\Debug\net5.0\05. Month Printer.csproj.CoreCompileInputs.cache
+D:\SU\#fund-csharp_05.2022\01\01. Basic Syntax, Conditional Statements and Loops\05. Month Printer\obj\Debug\net5.0\05. Month Printer.dll
+D:\SU\#fund-csharp_05.2022\01\01. Basic Syntax, Conditional Statements and Loops\05. Month Printer\obj\Debug\net5.0\ref\05. Month Printer.dll
+D:\SU\#fund-csharp_05.2022\01\01. Basic Syntax, Conditional Statements and Loops\05. Month Printer\obj\Debug\net5.0\05. Month Printer.pdb
+D:\SU\#fund-csharp_05.2022\01\01. Basic Syntax, Conditional Statements and Loops\05. Month Printer\obj\Debug\net5.0\05. Month Printer.genruntimeconfig.cache

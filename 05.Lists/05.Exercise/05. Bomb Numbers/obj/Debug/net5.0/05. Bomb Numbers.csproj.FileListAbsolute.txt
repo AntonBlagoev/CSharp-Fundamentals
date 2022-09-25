@@ -1,0 +1,16 @@
+D:\SU\#fund-csharp_05.2022\04\05. Exercise\05. Bomb Numbers\obj\Debug\net5.0\05. Bomb Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\SU\#fund-csharp_05.2022\04\05. Exercise\05. Bomb Numbers\obj\Debug\net5.0\05. Bomb Numbers.AssemblyInfoInputs.cache
+D:\SU\#fund-csharp_05.2022\04\05. Exercise\05. Bomb Numbers\obj\Debug\net5.0\05. Bomb Numbers.AssemblyInfo.cs
+D:\SU\#fund-csharp_05.2022\04\05. Exercise\05. Bomb Numbers\obj\Debug\net5.0\05. Bomb Numbers.csproj.CoreCompileInputs.cache
+D:\SU\#fund-csharp_05.2022\04\05. Exercise\05. Bomb Numbers\bin\Debug\net5.0\05. Bomb Numbers.exe
+D:\SU\#fund-csharp_05.2022\04\05. Exercise\05. Bomb Numbers\bin\Debug\net5.0\05. Bomb Numbers.deps.json
+D:\SU\#fund-csharp_05.2022\04\05. Exercise\05. Bomb Numbers\bin\Debug\net5.0\05. Bomb Numbers.runtimeconfig.json
+D:\SU\#fund-csharp_05.2022\04\05. Exercise\05. Bomb Numbers\bin\Debug\net5.0\05. Bomb Numbers.runtimeconfig.dev.json
+D:\SU\#fund-csharp_05.2022\04\05. Exercise\05. Bomb Numbers\bin\Debug\net5.0\05. Bomb Numbers.dll
+D:\SU\#fund-csharp_05.2022\04\05. Exercise\05. Bomb Numbers\bin\Debug\net5.0\ref\05. Bomb Numbers.dll
+D:\SU\#fund-csharp_05.2022\04\05. Exercise\05. Bomb Numbers\bin\Debug\net5.0\05. Bomb Numbers.pdb
+D:\SU\#fund-csharp_05.2022\04\05. Exercise\05. Bomb Numbers\obj\Debug\net5.0\05. Bomb Numbers.dll
+D:\SU\#fund-csharp_05.2022\04\05. Exercise\05. Bomb Numbers\obj\Debug\net5.0\ref\05. Bomb Numbers.dll
+D:\SU\#fund-csharp_05.2022\04\05. Exercise\05. Bomb Numbers\obj\Debug\net5.0\05. Bomb Numbers.pdb
+D:\SU\#fund-csharp_05.2022\04\05. Exercise\05. Bomb Numbers\obj\Debug\net5.0\05. Bomb Numbers.genruntimeconfig.cache
+D:\SU\#fund-csharp_05.2022\04\05. Exercise\05. Bomb Numbers\obj\Debug\net5.0\05. Bomb Numbers.csproj.AssemblyReference.cache

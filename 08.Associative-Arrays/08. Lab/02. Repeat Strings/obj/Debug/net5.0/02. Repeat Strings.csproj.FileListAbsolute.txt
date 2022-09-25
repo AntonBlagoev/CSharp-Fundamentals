@@ -1,0 +1,16 @@
+C:\Users\anton\source\repos\08. Lab\02. Repeat Strings\bin\Debug\net5.0\02. Repeat Strings.exe
+C:\Users\anton\source\repos\08. Lab\02. Repeat Strings\bin\Debug\net5.0\02. Repeat Strings.deps.json
+C:\Users\anton\source\repos\08. Lab\02. Repeat Strings\bin\Debug\net5.0\02. Repeat Strings.runtimeconfig.json
+C:\Users\anton\source\repos\08. Lab\02. Repeat Strings\bin\Debug\net5.0\02. Repeat Strings.runtimeconfig.dev.json
+C:\Users\anton\source\repos\08. Lab\02. Repeat Strings\bin\Debug\net5.0\02. Repeat Strings.dll
+C:\Users\anton\source\repos\08. Lab\02. Repeat Strings\bin\Debug\net5.0\ref\02. Repeat Strings.dll
+C:\Users\anton\source\repos\08. Lab\02. Repeat Strings\bin\Debug\net5.0\02. Repeat Strings.pdb
+C:\Users\anton\source\repos\08. Lab\02. Repeat Strings\obj\Debug\net5.0\02. Repeat Strings.csproj.AssemblyReference.cache
+C:\Users\anton\source\repos\08. Lab\02. Repeat Strings\obj\Debug\net5.0\02. Repeat Strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\source\repos\08. Lab\02. Repeat Strings\obj\Debug\net5.0\02. Repeat Strings.AssemblyInfoInputs.cache
+C:\Users\anton\source\repos\08. Lab\02. Repeat Strings\obj\Debug\net5.0\02. Repeat Strings.AssemblyInfo.cs
+C:\Users\anton\source\repos\08. Lab\02. Repeat Strings\obj\Debug\net5.0\02. Repeat Strings.csproj.CoreCompileInputs.cache
+C:\Users\anton\source\repos\08. Lab\02. Repeat Strings\obj\Debug\net5.0\02. Repeat Strings.dll
+C:\Users\anton\source\repos\08. Lab\02. Repeat Strings\obj\Debug\net5.0\ref\02. Repeat Strings.dll
+C:\Users\anton\source\repos\08. Lab\02. Repeat Strings\obj\Debug\net5.0\02. Repeat Strings.pdb
+C:\Users\anton\source\repos\08. Lab\02. Repeat Strings\obj\Debug\net5.0\02. Repeat Strings.genruntimeconfig.cache

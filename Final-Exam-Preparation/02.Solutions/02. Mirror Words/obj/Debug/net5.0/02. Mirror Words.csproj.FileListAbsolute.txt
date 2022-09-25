@@ -1,0 +1,16 @@
+D:\SU\#fund-csharp_05.2022\Final-Exam_Solutions-II\Final-Exam_Solutions-II\02. Mirror Words\bin\Debug\net5.0\02. Mirror Words.exe
+D:\SU\#fund-csharp_05.2022\Final-Exam_Solutions-II\Final-Exam_Solutions-II\02. Mirror Words\bin\Debug\net5.0\02. Mirror Words.deps.json
+D:\SU\#fund-csharp_05.2022\Final-Exam_Solutions-II\Final-Exam_Solutions-II\02. Mirror Words\bin\Debug\net5.0\02. Mirror Words.runtimeconfig.json
+D:\SU\#fund-csharp_05.2022\Final-Exam_Solutions-II\Final-Exam_Solutions-II\02. Mirror Words\bin\Debug\net5.0\02. Mirror Words.runtimeconfig.dev.json
+D:\SU\#fund-csharp_05.2022\Final-Exam_Solutions-II\Final-Exam_Solutions-II\02. Mirror Words\bin\Debug\net5.0\02. Mirror Words.dll
+D:\SU\#fund-csharp_05.2022\Final-Exam_Solutions-II\Final-Exam_Solutions-II\02. Mirror Words\bin\Debug\net5.0\ref\02. Mirror Words.dll
+D:\SU\#fund-csharp_05.2022\Final-Exam_Solutions-II\Final-Exam_Solutions-II\02. Mirror Words\bin\Debug\net5.0\02. Mirror Words.pdb
+D:\SU\#fund-csharp_05.2022\Final-Exam_Solutions-II\Final-Exam_Solutions-II\02. Mirror Words\obj\Debug\net5.0\02. Mirror Words.csproj.AssemblyReference.cache
+D:\SU\#fund-csharp_05.2022\Final-Exam_Solutions-II\Final-Exam_Solutions-II\02. Mirror Words\obj\Debug\net5.0\02. Mirror Words.GeneratedMSBuildEditorConfig.editorconfig
+D:\SU\#fund-csharp_05.2022\Final-Exam_Solutions-II\Final-Exam_Solutions-II\02. Mirror Words\obj\Debug\net5.0\02. Mirror Words.AssemblyInfoInputs.cache
+D:\SU\#fund-csharp_05.2022\Final-Exam_Solutions-II\Final-Exam_Solutions-II\02. Mirror Words\obj\Debug\net5.0\02. Mirror Words.AssemblyInfo.cs
+D:\SU\#fund-csharp_05.2022\Final-Exam_Solutions-II\Final-Exam_Solutions-II\02. Mirror Words\obj\Debug\net5.0\02. Mirror Words.csproj.CoreCompileInputs.cache
+D:\SU\#fund-csharp_05.2022\Final-Exam_Solutions-II\Final-Exam_Solutions-II\02. Mirror Words\obj\Debug\net5.0\02. Mirror Words.dll
+D:\SU\#fund-csharp_05.2022\Final-Exam_Solutions-II\Final-Exam_Solutions-II\02. Mirror Words\obj\Debug\net5.0\ref\02. Mirror Words.dll
+D:\SU\#fund-csharp_05.2022\Final-Exam_Solutions-II\Final-Exam_Solutions-II\02. Mirror Words\obj\Debug\net5.0\02. Mirror Words.pdb
+D:\SU\#fund-csharp_05.2022\Final-Exam_Solutions-II\Final-Exam_Solutions-II\02. Mirror Words\obj\Debug\net5.0\02. Mirror Words.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+D:\SU\#fund-csharp_05.2022\04\04. Exercise\07. NxN Matrix\bin\Debug\net5.0\07. NxN Matrix.exe
+D:\SU\#fund-csharp_05.2022\04\04. Exercise\07. NxN Matrix\bin\Debug\net5.0\07. NxN Matrix.deps.json
+D:\SU\#fund-csharp_05.2022\04\04. Exercise\07. NxN Matrix\bin\Debug\net5.0\07. NxN Matrix.runtimeconfig.json
+D:\SU\#fund-csharp_05.2022\04\04. Exercise\07. NxN Matrix\bin\Debug\net5.0\07. NxN Matrix.runtimeconfig.dev.json
+D:\SU\#fund-csharp_05.2022\04\04. Exercise\07. NxN Matrix\bin\Debug\net5.0\07. NxN Matrix.dll
+D:\SU\#fund-csharp_05.2022\04\04. Exercise\07. NxN Matrix\bin\Debug\net5.0\ref\07. NxN Matrix.dll
+D:\SU\#fund-csharp_05.2022\04\04. Exercise\07. NxN Matrix\bin\Debug\net5.0\07. NxN Matrix.pdb
+D:\SU\#fund-csharp_05.2022\04\04. Exercise\07. NxN Matrix\obj\Debug\net5.0\07. NxN Matrix.GeneratedMSBuildEditorConfig.editorconfig
+D:\SU\#fund-csharp_05.2022\04\04. Exercise\07. NxN Matrix\obj\Debug\net5.0\07. NxN Matrix.AssemblyInfoInputs.cache
+D:\SU\#fund-csharp_05.2022\04\04. Exercise\07. NxN Matrix\obj\Debug\net5.0\07. NxN Matrix.AssemblyInfo.cs
+D:\SU\#fund-csharp_05.2022\04\04. Exercise\07. NxN Matrix\obj\Debug\net5.0\07. NxN Matrix.csproj.CoreCompileInputs.cache
+D:\SU\#fund-csharp_05.2022\04\04. Exercise\07. NxN Matrix\obj\Debug\net5.0\07. NxN Matrix.dll
+D:\SU\#fund-csharp_05.2022\04\04. Exercise\07. NxN Matrix\obj\Debug\net5.0\ref\07. NxN Matrix.dll
+D:\SU\#fund-csharp_05.2022\04\04. Exercise\07. NxN Matrix\obj\Debug\net5.0\07. NxN Matrix.pdb
+D:\SU\#fund-csharp_05.2022\04\04. Exercise\07. NxN Matrix\obj\Debug\net5.0\07. NxN Matrix.genruntimeconfig.cache

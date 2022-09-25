@@ -1,0 +1,16 @@
+D:\SU\#fund-csharp_05.2022\03\03. Exercise\03. Zig-Zag Arrays\bin\Debug\net5.0\03. Zig-Zag Arrays.exe
+D:\SU\#fund-csharp_05.2022\03\03. Exercise\03. Zig-Zag Arrays\bin\Debug\net5.0\03. Zig-Zag Arrays.deps.json
+D:\SU\#fund-csharp_05.2022\03\03. Exercise\03. Zig-Zag Arrays\bin\Debug\net5.0\03. Zig-Zag Arrays.runtimeconfig.json
+D:\SU\#fund-csharp_05.2022\03\03. Exercise\03. Zig-Zag Arrays\bin\Debug\net5.0\03. Zig-Zag Arrays.runtimeconfig.dev.json
+D:\SU\#fund-csharp_05.2022\03\03. Exercise\03. Zig-Zag Arrays\bin\Debug\net5.0\03. Zig-Zag Arrays.dll
+D:\SU\#fund-csharp_05.2022\03\03. Exercise\03. Zig-Zag Arrays\bin\Debug\net5.0\ref\03. Zig-Zag Arrays.dll
+D:\SU\#fund-csharp_05.2022\03\03. Exercise\03. Zig-Zag Arrays\bin\Debug\net5.0\03. Zig-Zag Arrays.pdb
+D:\SU\#fund-csharp_05.2022\03\03. Exercise\03. Zig-Zag Arrays\obj\Debug\net5.0\03. Zig-Zag Arrays.csproj.AssemblyReference.cache
+D:\SU\#fund-csharp_05.2022\03\03. Exercise\03. Zig-Zag Arrays\obj\Debug\net5.0\03. Zig-Zag Arrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\SU\#fund-csharp_05.2022\03\03. Exercise\03. Zig-Zag Arrays\obj\Debug\net5.0\03. Zig-Zag Arrays.AssemblyInfoInputs.cache
+D:\SU\#fund-csharp_05.2022\03\03. Exercise\03. Zig-Zag Arrays\obj\Debug\net5.0\03. Zig-Zag Arrays.AssemblyInfo.cs
+D:\SU\#fund-csharp_05.2022\03\03. Exercise\03. Zig-Zag Arrays\obj\Debug\net5.0\03. Zig-Zag Arrays.csproj.CoreCompileInputs.cache
+D:\SU\#fund-csharp_05.2022\03\03. Exercise\03. Zig-Zag Arrays\obj\Debug\net5.0\03. Zig-Zag Arrays.dll
+D:\SU\#fund-csharp_05.2022\03\03. Exercise\03. Zig-Zag Arrays\obj\Debug\net5.0\ref\03. Zig-Zag Arrays.dll
+D:\SU\#fund-csharp_05.2022\03\03. Exercise\03. Zig-Zag Arrays\obj\Debug\net5.0\03. Zig-Zag Arrays.pdb
+D:\SU\#fund-csharp_05.2022\03\03. Exercise\03. Zig-Zag Arrays\obj\Debug\net5.0\03. Zig-Zag Arrays.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\SU\#fund-csharp_05.2022\04\04. Exercise\06. Middle Characters\bin\Debug\net5.0\06. Middle Characters.exe
+D:\SU\#fund-csharp_05.2022\04\04. Exercise\06. Middle Characters\bin\Debug\net5.0\06. Middle Characters.deps.json
+D:\SU\#fund-csharp_05.2022\04\04. Exercise\06. Middle Characters\bin\Debug\net5.0\06. Middle Characters.runtimeconfig.json
+D:\SU\#fund-csharp_05.2022\04\04. Exercise\06. Middle Characters\bin\Debug\net5.0\06. Middle Characters.runtimeconfig.dev.json
+D:\SU\#fund-csharp_05.2022\04\04. Exercise\06. Middle Characters\bin\Debug\net5.0\06. Middle Characters.dll
+D:\SU\#fund-csharp_05.2022\04\04. Exercise\06. Middle Characters\bin\Debug\net5.0\ref\06. Middle Characters.dll
+D:\SU\#fund-csharp_05.2022\04\04. Exercise\06. Middle Characters\bin\Debug\net5.0\06. Middle Characters.pdb
+D:\SU\#fund-csharp_05.2022\04\04. Exercise\06. Middle Characters\obj\Debug\net5.0\06. Middle Characters.GeneratedMSBuildEditorConfig.editorconfig
+D:\SU\#fund-csharp_05.2022\04\04. Exercise\06. Middle Characters\obj\Debug\net5.0\06. Middle Characters.AssemblyInfoInputs.cache
+D:\SU\#fund-csharp_05.2022\04\04. Exercise\06. Middle Characters\obj\Debug\net5.0\06. Middle Characters.AssemblyInfo.cs
+D:\SU\#fund-csharp_05.2022\04\04. Exercise\06. Middle Characters\obj\Debug\net5.0\06. Middle Characters.csproj.CoreCompileInputs.cache
+D:\SU\#fund-csharp_05.2022\04\04. Exercise\06. Middle Characters\obj\Debug\net5.0\06. Middle Characters.dll
+D:\SU\#fund-csharp_05.2022\04\04. Exercise\06. Middle Characters\obj\Debug\net5.0\ref\06. Middle Characters.dll
+D:\SU\#fund-csharp_05.2022\04\04. Exercise\06. Middle Characters\obj\Debug\net5.0\06. Middle Characters.pdb
+D:\SU\#fund-csharp_05.2022\04\04. Exercise\06. Middle Characters\obj\Debug\net5.0\06. Middle Characters.genruntimeconfig.cache
+D:\SU\#fund-csharp_05.2022\04\04. Exercise\06. Middle Characters\obj\Debug\net5.0\06. Middle Characters.csproj.AssemblyReference.cache

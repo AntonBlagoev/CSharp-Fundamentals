@@ -1,0 +1,16 @@
+D:\SU\#fund-csharp_05.2022\03\03. Exercise\06. Equal Sum\bin\Debug\net5.0\06. Equal Sum.exe
+D:\SU\#fund-csharp_05.2022\03\03. Exercise\06. Equal Sum\bin\Debug\net5.0\06. Equal Sum.deps.json
+D:\SU\#fund-csharp_05.2022\03\03. Exercise\06. Equal Sum\bin\Debug\net5.0\06. Equal Sum.runtimeconfig.json
+D:\SU\#fund-csharp_05.2022\03\03. Exercise\06. Equal Sum\bin\Debug\net5.0\06. Equal Sum.runtimeconfig.dev.json
+D:\SU\#fund-csharp_05.2022\03\03. Exercise\06. Equal Sum\bin\Debug\net5.0\06. Equal Sum.dll
+D:\SU\#fund-csharp_05.2022\03\03. Exercise\06. Equal Sum\bin\Debug\net5.0\ref\06. Equal Sum.dll
+D:\SU\#fund-csharp_05.2022\03\03. Exercise\06. Equal Sum\bin\Debug\net5.0\06. Equal Sum.pdb
+D:\SU\#fund-csharp_05.2022\03\03. Exercise\06. Equal Sum\obj\Debug\net5.0\06. Equal Sum.csproj.AssemblyReference.cache
+D:\SU\#fund-csharp_05.2022\03\03. Exercise\06. Equal Sum\obj\Debug\net5.0\06. Equal Sum.GeneratedMSBuildEditorConfig.editorconfig
+D:\SU\#fund-csharp_05.2022\03\03. Exercise\06. Equal Sum\obj\Debug\net5.0\06. Equal Sum.AssemblyInfoInputs.cache
+D:\SU\#fund-csharp_05.2022\03\03. Exercise\06. Equal Sum\obj\Debug\net5.0\06. Equal Sum.AssemblyInfo.cs
+D:\SU\#fund-csharp_05.2022\03\03. Exercise\06. Equal Sum\obj\Debug\net5.0\06. Equal Sum.csproj.CoreCompileInputs.cache
+D:\SU\#fund-csharp_05.2022\03\03. Exercise\06. Equal Sum\obj\Debug\net5.0\06. Equal Sum.dll
+D:\SU\#fund-csharp_05.2022\03\03. Exercise\06. Equal Sum\obj\Debug\net5.0\ref\06. Equal Sum.dll
+D:\SU\#fund-csharp_05.2022\03\03. Exercise\06. Equal Sum\obj\Debug\net5.0\06. Equal Sum.pdb
+D:\SU\#fund-csharp_05.2022\03\03. Exercise\06. Equal Sum\obj\Debug\net5.0\06. Equal Sum.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\SU\#fund-csharp_05.2022\Final-Exam\04. Santa's New List\bin\Debug\net5.0\04. Santa's New List.exe
+D:\SU\#fund-csharp_05.2022\Final-Exam\04. Santa's New List\bin\Debug\net5.0\04. Santa's New List.deps.json
+D:\SU\#fund-csharp_05.2022\Final-Exam\04. Santa's New List\bin\Debug\net5.0\04. Santa's New List.runtimeconfig.json
+D:\SU\#fund-csharp_05.2022\Final-Exam\04. Santa's New List\bin\Debug\net5.0\04. Santa's New List.runtimeconfig.dev.json
+D:\SU\#fund-csharp_05.2022\Final-Exam\04. Santa's New List\bin\Debug\net5.0\04. Santa's New List.dll
+D:\SU\#fund-csharp_05.2022\Final-Exam\04. Santa's New List\bin\Debug\net5.0\ref\04. Santa's New List.dll
+D:\SU\#fund-csharp_05.2022\Final-Exam\04. Santa's New List\bin\Debug\net5.0\04. Santa's New List.pdb
+D:\SU\#fund-csharp_05.2022\Final-Exam\04. Santa's New List\obj\Debug\net5.0\04. Santa's New List.csproj.AssemblyReference.cache
+D:\SU\#fund-csharp_05.2022\Final-Exam\04. Santa's New List\obj\Debug\net5.0\04. Santa's New List.GeneratedMSBuildEditorConfig.editorconfig
+D:\SU\#fund-csharp_05.2022\Final-Exam\04. Santa's New List\obj\Debug\net5.0\04. Santa's New List.AssemblyInfoInputs.cache
+D:\SU\#fund-csharp_05.2022\Final-Exam\04. Santa's New List\obj\Debug\net5.0\04. Santa's New List.AssemblyInfo.cs
+D:\SU\#fund-csharp_05.2022\Final-Exam\04. Santa's New List\obj\Debug\net5.0\04. Santa's New List.csproj.CoreCompileInputs.cache
+D:\SU\#fund-csharp_05.2022\Final-Exam\04. Santa's New List\obj\Debug\net5.0\04. Santa's New List.dll
+D:\SU\#fund-csharp_05.2022\Final-Exam\04. Santa's New List\obj\Debug\net5.0\ref\04. Santa's New List.dll
+D:\SU\#fund-csharp_05.2022\Final-Exam\04. Santa's New List\obj\Debug\net5.0\04. Santa's New List.pdb
+D:\SU\#fund-csharp_05.2022\Final-Exam\04. Santa's New List\obj\Debug\net5.0\04. Santa's New List.genruntimeconfig.cache

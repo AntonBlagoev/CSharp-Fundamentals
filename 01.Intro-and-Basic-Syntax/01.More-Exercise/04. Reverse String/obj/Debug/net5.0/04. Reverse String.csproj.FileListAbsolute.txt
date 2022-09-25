@@ -1,0 +1,16 @@
+D:\SU\#fund-csharp_05.2022\01\01. More-Exercise\04. Reverse String\bin\Debug\net5.0\04. Reverse String.exe
+D:\SU\#fund-csharp_05.2022\01\01. More-Exercise\04. Reverse String\bin\Debug\net5.0\04. Reverse String.deps.json
+D:\SU\#fund-csharp_05.2022\01\01. More-Exercise\04. Reverse String\bin\Debug\net5.0\04. Reverse String.runtimeconfig.json
+D:\SU\#fund-csharp_05.2022\01\01. More-Exercise\04. Reverse String\bin\Debug\net5.0\04. Reverse String.runtimeconfig.dev.json
+D:\SU\#fund-csharp_05.2022\01\01. More-Exercise\04. Reverse String\bin\Debug\net5.0\04. Reverse String.dll
+D:\SU\#fund-csharp_05.2022\01\01. More-Exercise\04. Reverse String\bin\Debug\net5.0\ref\04. Reverse String.dll
+D:\SU\#fund-csharp_05.2022\01\01. More-Exercise\04. Reverse String\bin\Debug\net5.0\04. Reverse String.pdb
+D:\SU\#fund-csharp_05.2022\01\01. More-Exercise\04. Reverse String\obj\Debug\net5.0\04. Reverse String.csproj.AssemblyReference.cache
+D:\SU\#fund-csharp_05.2022\01\01. More-Exercise\04. Reverse String\obj\Debug\net5.0\04. Reverse String.GeneratedMSBuildEditorConfig.editorconfig
+D:\SU\#fund-csharp_05.2022\01\01. More-Exercise\04. Reverse String\obj\Debug\net5.0\04. Reverse String.AssemblyInfoInputs.cache
+D:\SU\#fund-csharp_05.2022\01\01. More-Exercise\04. Reverse String\obj\Debug\net5.0\04. Reverse String.AssemblyInfo.cs
+D:\SU\#fund-csharp_05.2022\01\01. More-Exercise\04. Reverse String\obj\Debug\net5.0\04. Reverse String.csproj.CoreCompileInputs.cache
+D:\SU\#fund-csharp_05.2022\01\01. More-Exercise\04. Reverse String\obj\Debug\net5.0\04. Reverse String.dll
+D:\SU\#fund-csharp_05.2022\01\01. More-Exercise\04. Reverse String\obj\Debug\net5.0\ref\04. Reverse String.dll
+D:\SU\#fund-csharp_05.2022\01\01. More-Exercise\04. Reverse String\obj\Debug\net5.0\04. Reverse String.pdb
+D:\SU\#fund-csharp_05.2022\01\01. More-Exercise\04. Reverse String\obj\Debug\net5.0\04. Reverse String.genruntimeconfig.cache

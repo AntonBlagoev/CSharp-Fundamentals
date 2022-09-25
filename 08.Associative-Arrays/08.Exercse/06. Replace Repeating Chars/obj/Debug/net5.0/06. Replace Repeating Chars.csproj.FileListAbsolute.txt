@@ -1,0 +1,15 @@
+D:\SU\#fund-csharp_05.2022\08\08. Exercies\06. Replace Repeating Chars\bin\Debug\net5.0\06. Replace Repeating Chars.exe
+D:\SU\#fund-csharp_05.2022\08\08. Exercies\06. Replace Repeating Chars\bin\Debug\net5.0\06. Replace Repeating Chars.deps.json
+D:\SU\#fund-csharp_05.2022\08\08. Exercies\06. Replace Repeating Chars\bin\Debug\net5.0\06. Replace Repeating Chars.runtimeconfig.json
+D:\SU\#fund-csharp_05.2022\08\08. Exercies\06. Replace Repeating Chars\bin\Debug\net5.0\06. Replace Repeating Chars.runtimeconfig.dev.json
+D:\SU\#fund-csharp_05.2022\08\08. Exercies\06. Replace Repeating Chars\bin\Debug\net5.0\06. Replace Repeating Chars.dll
+D:\SU\#fund-csharp_05.2022\08\08. Exercies\06. Replace Repeating Chars\bin\Debug\net5.0\ref\06. Replace Repeating Chars.dll
+D:\SU\#fund-csharp_05.2022\08\08. Exercies\06. Replace Repeating Chars\bin\Debug\net5.0\06. Replace Repeating Chars.pdb
+D:\SU\#fund-csharp_05.2022\08\08. Exercies\06. Replace Repeating Chars\obj\Debug\net5.0\06. Replace Repeating Chars.GeneratedMSBuildEditorConfig.editorconfig
+D:\SU\#fund-csharp_05.2022\08\08. Exercies\06. Replace Repeating Chars\obj\Debug\net5.0\06. Replace Repeating Chars.AssemblyInfoInputs.cache
+D:\SU\#fund-csharp_05.2022\08\08. Exercies\06. Replace Repeating Chars\obj\Debug\net5.0\06. Replace Repeating Chars.AssemblyInfo.cs
+D:\SU\#fund-csharp_05.2022\08\08. Exercies\06. Replace Repeating Chars\obj\Debug\net5.0\06. Replace Repeating Chars.csproj.CoreCompileInputs.cache
+D:\SU\#fund-csharp_05.2022\08\08. Exercies\06. Replace Repeating Chars\obj\Debug\net5.0\06. Replace Repeating Chars.dll
+D:\SU\#fund-csharp_05.2022\08\08. Exercies\06. Replace Repeating Chars\obj\Debug\net5.0\ref\06. Replace Repeating Chars.dll
+D:\SU\#fund-csharp_05.2022\08\08. Exercies\06. Replace Repeating Chars\obj\Debug\net5.0\06. Replace Repeating Chars.pdb
+D:\SU\#fund-csharp_05.2022\08\08. Exercies\06. Replace Repeating Chars\obj\Debug\net5.0\06. Replace Repeating Chars.genruntimeconfig.cache

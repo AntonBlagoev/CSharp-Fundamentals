@@ -1,0 +1,16 @@
+D:\SU\#fund-csharp_05.2022\01\01. More-Exercise\03. Gaming Store\bin\Debug\net5.0\03. Gaming Store.exe
+D:\SU\#fund-csharp_05.2022\01\01. More-Exercise\03. Gaming Store\bin\Debug\net5.0\03. Gaming Store.deps.json
+D:\SU\#fund-csharp_05.2022\01\01. More-Exercise\03. Gaming Store\bin\Debug\net5.0\03. Gaming Store.runtimeconfig.json
+D:\SU\#fund-csharp_05.2022\01\01. More-Exercise\03. Gaming Store\bin\Debug\net5.0\03. Gaming Store.runtimeconfig.dev.json
+D:\SU\#fund-csharp_05.2022\01\01. More-Exercise\03. Gaming Store\bin\Debug\net5.0\03. Gaming Store.dll
+D:\SU\#fund-csharp_05.2022\01\01. More-Exercise\03. Gaming Store\bin\Debug\net5.0\ref\03. Gaming Store.dll
+D:\SU\#fund-csharp_05.2022\01\01. More-Exercise\03. Gaming Store\bin\Debug\net5.0\03. Gaming Store.pdb
+D:\SU\#fund-csharp_05.2022\01\01. More-Exercise\03. Gaming Store\obj\Debug\net5.0\03. Gaming Store.csproj.AssemblyReference.cache
+D:\SU\#fund-csharp_05.2022\01\01. More-Exercise\03. Gaming Store\obj\Debug\net5.0\03. Gaming Store.GeneratedMSBuildEditorConfig.editorconfig
+D:\SU\#fund-csharp_05.2022\01\01. More-Exercise\03. Gaming Store\obj\Debug\net5.0\03. Gaming Store.AssemblyInfoInputs.cache
+D:\SU\#fund-csharp_05.2022\01\01. More-Exercise\03. Gaming Store\obj\Debug\net5.0\03. Gaming Store.AssemblyInfo.cs
+D:\SU\#fund-csharp_05.2022\01\01. More-Exercise\03. Gaming Store\obj\Debug\net5.0\03. Gaming Store.csproj.CoreCompileInputs.cache
+D:\SU\#fund-csharp_05.2022\01\01. More-Exercise\03. Gaming Store\obj\Debug\net5.0\03. Gaming Store.dll
+D:\SU\#fund-csharp_05.2022\01\01. More-Exercise\03. Gaming Store\obj\Debug\net5.0\ref\03. Gaming Store.dll
+D:\SU\#fund-csharp_05.2022\01\01. More-Exercise\03. Gaming Store\obj\Debug\net5.0\03. Gaming Store.pdb
+D:\SU\#fund-csharp_05.2022\01\01. More-Exercise\03. Gaming Store\obj\Debug\net5.0\03. Gaming Store.genruntimeconfig.cache

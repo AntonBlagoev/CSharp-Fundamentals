@@ -1,0 +1,15 @@
+D:\SU\#fund-csharp_05.2022\02\02. Lab\08. Town Info\bin\Debug\net5.0\08. Town Info.exe
+D:\SU\#fund-csharp_05.2022\02\02. Lab\08. Town Info\bin\Debug\net5.0\08. Town Info.deps.json
+D:\SU\#fund-csharp_05.2022\02\02. Lab\08. Town Info\bin\Debug\net5.0\08. Town Info.runtimeconfig.json
+D:\SU\#fund-csharp_05.2022\02\02. Lab\08. Town Info\bin\Debug\net5.0\08. Town Info.runtimeconfig.dev.json
+D:\SU\#fund-csharp_05.2022\02\02. Lab\08. Town Info\bin\Debug\net5.0\08. Town Info.dll
+D:\SU\#fund-csharp_05.2022\02\02. Lab\08. Town Info\bin\Debug\net5.0\ref\08. Town Info.dll
+D:\SU\#fund-csharp_05.2022\02\02. Lab\08. Town Info\bin\Debug\net5.0\08. Town Info.pdb
+D:\SU\#fund-csharp_05.2022\02\02. Lab\08. Town Info\obj\Debug\net5.0\08. Town Info.GeneratedMSBuildEditorConfig.editorconfig
+D:\SU\#fund-csharp_05.2022\02\02. Lab\08. Town Info\obj\Debug\net5.0\08. Town Info.AssemblyInfoInputs.cache
+D:\SU\#fund-csharp_05.2022\02\02. Lab\08. Town Info\obj\Debug\net5.0\08. Town Info.AssemblyInfo.cs
+D:\SU\#fund-csharp_05.2022\02\02. Lab\08. Town Info\obj\Debug\net5.0\08. Town Info.csproj.CoreCompileInputs.cache
+D:\SU\#fund-csharp_05.2022\02\02. Lab\08. Town Info\obj\Debug\net5.0\08. Town Info.dll
+D:\SU\#fund-csharp_05.2022\02\02. Lab\08. Town Info\obj\Debug\net5.0\ref\08. Town Info.dll
+D:\SU\#fund-csharp_05.2022\02\02. Lab\08. Town Info\obj\Debug\net5.0\08. Town Info.pdb
+D:\SU\#fund-csharp_05.2022\02\02. Lab\08. Town Info\obj\Debug\net5.0\08. Town Info.genruntimeconfig.cache

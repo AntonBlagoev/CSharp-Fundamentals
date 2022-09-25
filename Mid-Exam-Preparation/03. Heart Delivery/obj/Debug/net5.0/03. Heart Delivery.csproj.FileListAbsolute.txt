@@ -1,0 +1,16 @@
+D:\SU\#fund-csharp_05.2022\04\Mid-Exam\03. Heart Delivery\bin\Debug\net5.0\03. Heart Delivery.exe
+D:\SU\#fund-csharp_05.2022\04\Mid-Exam\03. Heart Delivery\bin\Debug\net5.0\03. Heart Delivery.deps.json
+D:\SU\#fund-csharp_05.2022\04\Mid-Exam\03. Heart Delivery\bin\Debug\net5.0\03. Heart Delivery.runtimeconfig.json
+D:\SU\#fund-csharp_05.2022\04\Mid-Exam\03. Heart Delivery\bin\Debug\net5.0\03. Heart Delivery.runtimeconfig.dev.json
+D:\SU\#fund-csharp_05.2022\04\Mid-Exam\03. Heart Delivery\bin\Debug\net5.0\03. Heart Delivery.dll
+D:\SU\#fund-csharp_05.2022\04\Mid-Exam\03. Heart Delivery\bin\Debug\net5.0\ref\03. Heart Delivery.dll
+D:\SU\#fund-csharp_05.2022\04\Mid-Exam\03. Heart Delivery\bin\Debug\net5.0\03. Heart Delivery.pdb
+D:\SU\#fund-csharp_05.2022\04\Mid-Exam\03. Heart Delivery\obj\Debug\net5.0\03. Heart Delivery.csproj.AssemblyReference.cache
+D:\SU\#fund-csharp_05.2022\04\Mid-Exam\03. Heart Delivery\obj\Debug\net5.0\03. Heart Delivery.GeneratedMSBuildEditorConfig.editorconfig
+D:\SU\#fund-csharp_05.2022\04\Mid-Exam\03. Heart Delivery\obj\Debug\net5.0\03. Heart Delivery.AssemblyInfoInputs.cache
+D:\SU\#fund-csharp_05.2022\04\Mid-Exam\03. Heart Delivery\obj\Debug\net5.0\03. Heart Delivery.AssemblyInfo.cs
+D:\SU\#fund-csharp_05.2022\04\Mid-Exam\03. Heart Delivery\obj\Debug\net5.0\03. Heart Delivery.csproj.CoreCompileInputs.cache
+D:\SU\#fund-csharp_05.2022\04\Mid-Exam\03. Heart Delivery\obj\Debug\net5.0\03. Heart Delivery.dll
+D:\SU\#fund-csharp_05.2022\04\Mid-Exam\03. Heart Delivery\obj\Debug\net5.0\ref\03. Heart Delivery.dll
+D:\SU\#fund-csharp_05.2022\04\Mid-Exam\03. Heart Delivery\obj\Debug\net5.0\03. Heart Delivery.pdb
+D:\SU\#fund-csharp_05.2022\04\Mid-Exam\03. Heart Delivery\obj\Debug\net5.0\03. Heart Delivery.genruntimeconfig.cache

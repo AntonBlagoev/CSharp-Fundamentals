@@ -1,0 +1,16 @@
+D:\SU\#fund-csharp_05.2022\02\02. Exercise\10. Poke Mon\bin\Debug\net5.0\10. Poke Mon.exe
+D:\SU\#fund-csharp_05.2022\02\02. Exercise\10. Poke Mon\bin\Debug\net5.0\10. Poke Mon.deps.json
+D:\SU\#fund-csharp_05.2022\02\02. Exercise\10. Poke Mon\bin\Debug\net5.0\10. Poke Mon.runtimeconfig.json
+D:\SU\#fund-csharp_05.2022\02\02. Exercise\10. Poke Mon\bin\Debug\net5.0\10. Poke Mon.runtimeconfig.dev.json
+D:\SU\#fund-csharp_05.2022\02\02. Exercise\10. Poke Mon\bin\Debug\net5.0\10. Poke Mon.dll
+D:\SU\#fund-csharp_05.2022\02\02. Exercise\10. Poke Mon\bin\Debug\net5.0\ref\10. Poke Mon.dll
+D:\SU\#fund-csharp_05.2022\02\02. Exercise\10. Poke Mon\bin\Debug\net5.0\10. Poke Mon.pdb
+D:\SU\#fund-csharp_05.2022\02\02. Exercise\10. Poke Mon\obj\Debug\net5.0\10. Poke Mon.GeneratedMSBuildEditorConfig.editorconfig
+D:\SU\#fund-csharp_05.2022\02\02. Exercise\10. Poke Mon\obj\Debug\net5.0\10. Poke Mon.AssemblyInfoInputs.cache
+D:\SU\#fund-csharp_05.2022\02\02. Exercise\10. Poke Mon\obj\Debug\net5.0\10. Poke Mon.AssemblyInfo.cs
+D:\SU\#fund-csharp_05.2022\02\02. Exercise\10. Poke Mon\obj\Debug\net5.0\10. Poke Mon.csproj.CoreCompileInputs.cache
+D:\SU\#fund-csharp_05.2022\02\02. Exercise\10. Poke Mon\obj\Debug\net5.0\10. Poke Mon.dll
+D:\SU\#fund-csharp_05.2022\02\02. Exercise\10. Poke Mon\obj\Debug\net5.0\ref\10. Poke Mon.dll
+D:\SU\#fund-csharp_05.2022\02\02. Exercise\10. Poke Mon\obj\Debug\net5.0\10. Poke Mon.pdb
+D:\SU\#fund-csharp_05.2022\02\02. Exercise\10. Poke Mon\obj\Debug\net5.0\10. Poke Mon.genruntimeconfig.cache
+D:\SU\#fund-csharp_05.2022\02\02. Exercise\10. Poke Mon\obj\Debug\net5.0\10. Poke Mon.csproj.AssemblyReference.cache

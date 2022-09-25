@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "v/ZpsX4z2lKUhVIPgSRhcRnTssEjhMQ96GpgTj8mcVtu/1ODAm59S5wiUxuB49xVrk31o+epcZtjwTd+Rqitmg==",
+  "success": true,
+  "projectFilePath": "D:\\SU\\#fund-csharp_05.2022\\07\\07. Lab\\01. Count Real Numbers\\01. Count Real Numbers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\anton\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\anton\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\anton\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
+    "C:\\Users\\anton\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,16 @@
+D:\SU\#fund-csharp_05.2022\Final-Exam\02. Ad Astra\bin\Debug\net5.0\02. Ad Astra.exe
+D:\SU\#fund-csharp_05.2022\Final-Exam\02. Ad Astra\bin\Debug\net5.0\02. Ad Astra.deps.json
+D:\SU\#fund-csharp_05.2022\Final-Exam\02. Ad Astra\bin\Debug\net5.0\02. Ad Astra.runtimeconfig.json
+D:\SU\#fund-csharp_05.2022\Final-Exam\02. Ad Astra\bin\Debug\net5.0\02. Ad Astra.runtimeconfig.dev.json
+D:\SU\#fund-csharp_05.2022\Final-Exam\02. Ad Astra\bin\Debug\net5.0\02. Ad Astra.dll
+D:\SU\#fund-csharp_05.2022\Final-Exam\02. Ad Astra\bin\Debug\net5.0\ref\02. Ad Astra.dll
+D:\SU\#fund-csharp_05.2022\Final-Exam\02. Ad Astra\bin\Debug\net5.0\02. Ad Astra.pdb
+D:\SU\#fund-csharp_05.2022\Final-Exam\02. Ad Astra\obj\Debug\net5.0\02. Ad Astra.csproj.AssemblyReference.cache
+D:\SU\#fund-csharp_05.2022\Final-Exam\02. Ad Astra\obj\Debug\net5.0\02. Ad Astra.GeneratedMSBuildEditorConfig.editorconfig
+D:\SU\#fund-csharp_05.2022\Final-Exam\02. Ad Astra\obj\Debug\net5.0\02. Ad Astra.AssemblyInfoInputs.cache
+D:\SU\#fund-csharp_05.2022\Final-Exam\02. Ad Astra\obj\Debug\net5.0\02. Ad Astra.AssemblyInfo.cs
+D:\SU\#fund-csharp_05.2022\Final-Exam\02. Ad Astra\obj\Debug\net5.0\02. Ad Astra.csproj.CoreCompileInputs.cache
+D:\SU\#fund-csharp_05.2022\Final-Exam\02. Ad Astra\obj\Debug\net5.0\02. Ad Astra.dll
+D:\SU\#fund-csharp_05.2022\Final-Exam\02. Ad Astra\obj\Debug\net5.0\ref\02. Ad Astra.dll
+D:\SU\#fund-csharp_05.2022\Final-Exam\02. Ad Astra\obj\Debug\net5.0\02. Ad Astra.pdb
+D:\SU\#fund-csharp_05.2022\Final-Exam\02. Ad Astra\obj\Debug\net5.0\02. Ad Astra.genruntimeconfig.cache

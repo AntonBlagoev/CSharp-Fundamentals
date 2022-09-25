@@ -1,0 +1,16 @@
+D:\SU\#fund-csharp_05.2022\04\Mid-Exam\01. Guinea Pig\bin\Debug\net5.0\01. Guinea Pig.exe
+D:\SU\#fund-csharp_05.2022\04\Mid-Exam\01. Guinea Pig\bin\Debug\net5.0\01. Guinea Pig.deps.json
+D:\SU\#fund-csharp_05.2022\04\Mid-Exam\01. Guinea Pig\bin\Debug\net5.0\01. Guinea Pig.runtimeconfig.json
+D:\SU\#fund-csharp_05.2022\04\Mid-Exam\01. Guinea Pig\bin\Debug\net5.0\01. Guinea Pig.runtimeconfig.dev.json
+D:\SU\#fund-csharp_05.2022\04\Mid-Exam\01. Guinea Pig\bin\Debug\net5.0\01. Guinea Pig.dll
+D:\SU\#fund-csharp_05.2022\04\Mid-Exam\01. Guinea Pig\bin\Debug\net5.0\ref\01. Guinea Pig.dll
+D:\SU\#fund-csharp_05.2022\04\Mid-Exam\01. Guinea Pig\bin\Debug\net5.0\01. Guinea Pig.pdb
+D:\SU\#fund-csharp_05.2022\04\Mid-Exam\01. Guinea Pig\obj\Debug\net5.0\01. Guinea Pig.csproj.AssemblyReference.cache
+D:\SU\#fund-csharp_05.2022\04\Mid-Exam\01. Guinea Pig\obj\Debug\net5.0\01. Guinea Pig.GeneratedMSBuildEditorConfig.editorconfig
+D:\SU\#fund-csharp_05.2022\04\Mid-Exam\01. Guinea Pig\obj\Debug\net5.0\01. Guinea Pig.AssemblyInfoInputs.cache
+D:\SU\#fund-csharp_05.2022\04\Mid-Exam\01. Guinea Pig\obj\Debug\net5.0\01. Guinea Pig.AssemblyInfo.cs
+D:\SU\#fund-csharp_05.2022\04\Mid-Exam\01. Guinea Pig\obj\Debug\net5.0\01. Guinea Pig.csproj.CoreCompileInputs.cache
+D:\SU\#fund-csharp_05.2022\04\Mid-Exam\01. Guinea Pig\obj\Debug\net5.0\01. Guinea Pig.dll
+D:\SU\#fund-csharp_05.2022\04\Mid-Exam\01. Guinea Pig\obj\Debug\net5.0\ref\01. Guinea Pig.dll
+D:\SU\#fund-csharp_05.2022\04\Mid-Exam\01. Guinea Pig\obj\Debug\net5.0\01. Guinea Pig.pdb
+D:\SU\#fund-csharp_05.2022\04\Mid-Exam\01. Guinea Pig\obj\Debug\net5.0\01. Guinea Pig.genruntimeconfig.cache
