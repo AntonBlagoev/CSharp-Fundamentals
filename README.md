@@ -20,9 +20,9 @@ End Date: 07.08.2022
 ## Lectures 
 
 
-\- 01. Basic Syntax, Conditional Statements and Loops (Lab) - 18.05.2022, lecturer Georgi Inkov
+[01. Basic Syntax, Conditional Statements and Loops (Lab) - 18.05.2022, lecturer Georgi Inkov] (https://github.com/AntonBlagoev/CSharp-Fundamentals/tree/main/01.Intro-and-Basic-Syntax)
 
-\- 01. Basic Syntax, Conditional Statements and Loops (Exercise) - 20.05.2022, lecturer Dimitar Krastanov
+\- 01. Basic Syntax, Conditional Statements and Loops (Exercise) - 20.05.2022, lecturer Dimitar Krastanov(https://github.com/AntonBlagoev/CSharp-Fundamentals/tree/main/01.Intro-and-Basic-Syntax)
 
 \- 01. Git and GitHub - 23.05.2022, lecturer Ivaylo Kenov
 
