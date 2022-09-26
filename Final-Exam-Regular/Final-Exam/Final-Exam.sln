@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.32002.261
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.StringGame", "01.StringGame\01.StringGame.csproj", "{3504FBF4-F75C-4903-B79F-5845F0F473F8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. StringGame", "01.StringGame\01. StringGame.csproj", "{3504FBF4-F75C-4903-B79F-5845F0F473F8}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02. Message Decrypter", "02. Message Decrypter\02. Message Decrypter.csproj", "{2B35E4CD-2D16-4F7D-B81F-96F9D99B2CA5}"
 EndProject
