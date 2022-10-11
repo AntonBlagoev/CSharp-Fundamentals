@@ -24,8 +24,6 @@ End Date: 07.08.2022
 
 [01. Basic Syntax, Conditional Statements and Loops (Exercise) - 20.05.2022, lecturer Dimitar Krastanov](01.Intro-and-Basic-Syntax/01.Exercise)
 
-[01. Git and GitHub - 23.05.2022, lecturer Ivaylo Kenov](01.Intro-and-Basic-Syntax)
-
 [02. Data Types and Variables (Lab) - 25.05.2022, lecturer Georgi Inkov](02.Data-Types-and-Variables/02.Lab)
 
 [02. Data Types and Variables (Exercise) - 27.05.2022, lecturer Dimitar Krastanov](02.Data-Types-and-Variables/02.Exercise)
