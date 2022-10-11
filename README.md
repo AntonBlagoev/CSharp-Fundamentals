@@ -20,7 +20,7 @@ End Date: 07.08.2022
 ## Lectures 
 
 
-[01. Basic Syntax, Conditional Statements and Loops (Lab) - 18.05.2022, lecturer Georgi Inkov](https://github.com/AntonBlagoev/CSharp-Fundamentals/tree/main/01.Intro-and-Basic-Syntax/01.Lab)
+[01. Basic Syntax, Conditional Statements and Loops (Lab) - 18.05.2022, lecturer Georgi Inkov](./tree/main/01.Intro-and-Basic-Syntax/01.Lab)
 
 [01. Basic Syntax, Conditional Statements and Loops (Exercise) - 20.05.2022, lecturer Dimitar Krastanov](https://github.com/AntonBlagoev/CSharp-Fundamentals/tree/main/01.Intro-and-Basic-Syntax/01.Exercise)
 
@@ -30,19 +30,13 @@ End Date: 07.08.2022
 
 [02. Data Types and Variables (Exercise) - 27.05.2022, lecturer Dimitar Krastanov](https://github.com/AntonBlagoev/CSharp-Fundamentals/tree/main/02.Data-Types-and-Variables/02.Exercise)
 
-[02. HTTP Basics - 30.05.2022, lecturer Ivaylo Kenov](https://github.com/AntonBlagoev/CSharp-Fundamentals/tree/main/02.Data-Types-and-Variables)
-
 [03. Arrays (Lab) - 01.06.2022, lecturer Georgi Inkov](https://github.com/AntonBlagoev/CSharp-Fundamentals/tree/main/03.Arrays/03.Lab)
 
 [03. Arrays (Exercise) - 03.06.2022, lecturer Dimitar Krastanov](https://github.com/AntonBlagoev/CSharp-Fundamentals/tree/main/03.Arrays/03.Exercise)
 
-[03. HTML & CSS Basics - 07.06.2022, lecturer Ivaylo Kenov](https://github.com/AntonBlagoev/CSharp-Fundamentals/tree/main/03.Arrays)
-
 [04. Methods (Lab) - 08.06.2022, lecturer Georgi Inkov](https://github.com/AntonBlagoev/CSharp-Fundamentals/tree/main/04.Methods/04.Lab)
 
 [04. Methods (Exercise) - 10.06.2022, lecturer Dimitar Krastanov](https://github.com/AntonBlagoev/CSharp-Fundamentals/tree/main/04.Methods/04.Exercise)
-
-[04. Software Development Concepts - Part 1 - 13.06.2022, lecturer Ivaylo Kenov](https://github.com/AntonBlagoev/CSharp-Fundamentals/tree/main/04.Methods)
 
 [05. List (Lab) - 15.06.2022, lecturer Georgi Inkov](https://github.com/AntonBlagoev/CSharp-Fundamentals/tree/main/05.Lists/05.Lab)
 
@@ -50,19 +44,13 @@ End Date: 07.08.2022
 
 [Exam Preparation - 20.06.2022, lecturer Georgi Inkov](https://github.com/AntonBlagoev/CSharp-Fundamentals/tree/main/Mid-Exam-Preparation)
 
-[Regular Mid Exam - 26.06.2022](https://github.com/AntonBlagoev/CSharp-Fundamentals/tree/main/Mid-Exam-Preparation)
-
 [06. Objects and Classes (Lab) - 29.06.2022, lecturer Georgi Inkov](https://github.com/AntonBlagoev/CSharp-Fundamentals/tree/main/06.Objects-and-Classes/06.Lab)
 
 [06. Objects and Classes (Exercise) - 01.07.2022, lecturer Dimitar Krastanov](https://github.com/AntonBlagoev/CSharp-Fundamentals/tree/main/06.Objects-and-Classes/06.Exercise)
 
-[06. Software Development Concepts - Part 2 - 04.07.2022, lecturer Ivaylo Kenov](https://github.com/AntonBlagoev/CSharp-Fundamentals/tree/main/06.Objects-and-Classes)
-
 [07. Associative Arrays (Lab) - 06.07.2022, lecturer Georgi Inkov](https://github.com/AntonBlagoev/CSharp-Fundamentals/tree/main/07.Associative-Arrays/07.Lab)
 
 [07. Associative Arrays (Exercise) - 08.07.2022, lecturer Dimitar Krastanov](https://github.com/AntonBlagoev/CSharp-Fundamentals/tree/main/07.Associative-Arrays/07.Exercise)
-
-[07. Bitwise Operations - 12.07.2022, lecturer Ivaylo Kenov](https://github.com/AntonBlagoev/CSharp-Fundamentals/tree/main/07.Associative-Arrays)
 
 [08. Text Processing (Lab) - 13.07.2022, lecturer Georgi Inkov](https://github.com/AntonBlagoev/CSharp-Fundamentals/tree/main/08.Associative-Arrays/08.Lab)
 
@@ -74,15 +62,9 @@ End Date: 07.08.2022
 
 [09. Regular Expressions (Exercise) - 22.07.2022, lecturer Dimitar Krastanov](https://github.com/AntonBlagoev/CSharp-Fundamentals/tree/main/09.Regular-Expressions-Regex/09.Exercise)
 
-[09. Database Basics - 26.07.2022, lecturer Ivaylo Kenov](https://github.com/AntonBlagoev/CSharp-Fundamentals/tree/main/09.Regular-Expressions-Regex)
-
 [Exam Preparation - 27.07.2022, lecturer Dimitar Krastanov](https://github.com/AntonBlagoev/CSharp-Fundamentals/tree/main/Final-Exam-Preparation)
 
 [Exam Preparation - 29.07.2022, lecturer Georgi Inkov](https://github.com/AntonBlagoev/CSharp-Fundamentals/tree/main/Final-Exam-Preparation)
-
-[09. QA Introduction - 01.08.2022, lecturer Dimo Mitev](https://github.com/AntonBlagoev/CSharp-Fundamentals/tree/main/09.Regular-Expressions-Regex)
-
-[10. Basic Web Project - 03.08.2022, lecturer Georgi Inkov](https://github.com/AntonBlagoev/CSharp-Fundamentals/tree/main/10.Basic%20Web%20Project)
 
 [Regular Final Exam - 07.08.2022](https://github.com/AntonBlagoev/CSharp-Fundamentals/tree/main/Final-Exam-Regular)
 
